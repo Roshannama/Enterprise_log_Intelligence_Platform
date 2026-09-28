@@ -1,0 +1,5 @@
+2026-09-20 08:00:58 WARNING database-service cpu_percent=91
+2026-09-20 08:01:40 WARNING search-service Index query latency elevated
+2026-09-20 08:02:45 ERROR search-service Search request timeout
+2026-09-20 08:04:22 WARNING user-service Search feature degraded for users
+2026-09-20 08:05:03 INFO database-service cpu_percent=45, load normalized

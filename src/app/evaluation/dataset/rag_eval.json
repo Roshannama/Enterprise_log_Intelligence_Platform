@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What caused the payment service database failure?",
+    "reference": "The payment service experienced repeated database connection timeouts, indicating a database connectivity or availability problem."
+  },
+  {
+    "question": "What should be investigated when database connection timeouts repeatedly occur?",
+    "reference": "Database availability, network connectivity, connection limits, resource utilization, and database configuration should be investigated."
+  },
+  {
+    "question": "What security issue is indicated by repeated authentication failures?",
+    "reference": "Repeated authentication failures indicate a potential authentication or access-control issue that should be investigated."
+  },
+  {
+    "question": "What does repeated request timeout activity indicate?",
+    "reference": "Repeated request timeouts indicate a service performance or dependency availability problem that may require investigation of latency, downstream services, and resource utilization."
+  }
+]

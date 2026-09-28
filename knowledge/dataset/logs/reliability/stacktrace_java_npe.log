@@ -1,0 +1,5 @@
+2026-09-20 08:00:00 ERROR inventory-service Unhandled exception
+java.lang.NullPointerException: Cannot invoke "Item.getQuantity()" because "item" is null
+	at com.example.inventory.InventoryService.reserve(InventoryService.java:112)
+	at com.example.inventory.InventoryController.handle(InventoryController.java:58)
+	at java.base/java.lang.Thread.run(Thread.java:840)

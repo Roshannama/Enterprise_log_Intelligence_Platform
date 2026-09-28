@@ -1,0 +1,12 @@
+2026-09-20 08:00:00 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:02 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:04 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:06 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:08 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:10 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:12 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:14 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:16 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:18 INFO monitoring-service Node cluster-node-3 healthy
+2026-09-20 08:00:25 CRITICAL monitoring-service Node cluster-node-3 unreachable, marked NotReady
+2026-09-20 08:00:40 INFO monitoring-service Workloads rescheduled to healthy nodes

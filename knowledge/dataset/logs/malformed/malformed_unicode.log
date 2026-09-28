@@ -1,0 +1,2 @@
+2026-09-20 08:00:00 INFO user-service Ünïcödé tëst mëssage — 用户请求已处理 — successful
+2026-09-20 08:00:02 WARNING api-gateway Emoji in payload test 🚀🔥 unexpected but valid utf-8

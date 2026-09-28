@@ -1,0 +1,308 @@
+[
+  {
+    "id": "gq-1",
+    "question": "What is a common cause of database connection timeout errors?",
+    "topic": "database failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-2",
+    "question": "What should be checked first when a connection pool is exhausted?",
+    "topic": "database failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-3",
+    "question": "What typically causes a database deadlock?",
+    "topic": "database failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-4",
+    "question": "What is a repeated failed login pattern from one IP usually a sign of?",
+    "topic": "authentication",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-5",
+    "question": "What is the recommended action when an API key is found in plaintext logs?",
+    "topic": "security exposure",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-6",
+    "question": "What does a 403 Forbidden response to an admin endpoint suggest?",
+    "topic": "authorization",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-7",
+    "question": "What is a common cause of elevated API latency?",
+    "topic": "latency",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-8",
+    "question": "What network issue commonly causes 'failed to resolve hostname' errors?",
+    "topic": "network failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-9",
+    "question": "What commonly causes a service to fail immediately after a deployment?",
+    "topic": "deployment failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-10",
+    "question": "Is transient latency on draining instances during a rolling deploy usually a real incident?",
+    "topic": "deployment failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-11",
+    "question": "What is the first step when investigating a TLS handshake failure?",
+    "topic": "network failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-12",
+    "question": "What does a growing queue depth combined with rising consumer lag indicate?",
+    "topic": "reliability",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-13",
+    "question": "What should be done when a circuit breaker opens for a dependency?",
+    "topic": "reliability",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-14",
+    "question": "What is a typical cause of replica lag increasing?",
+    "topic": "database failures",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-15",
+    "question": "What severity should be assigned to a single isolated ERROR log line by default?",
+    "topic": "severity classification",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gq-16",
+    "question": "How can you distinguish a genuine brute-force attempt from normal token expiry causing 401s?",
+    "topic": "authentication",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-17",
+    "question": "What is the relationship between cache eviction storms and database load?",
+    "topic": "correlated incidents",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-18",
+    "question": "Why might a search-service latency problem actually be a database issue?",
+    "topic": "correlated incidents",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-19",
+    "question": "What is retry amplification and how is it identified?",
+    "topic": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-20",
+    "question": "What steps confirm that a DNS outage, not a payment gateway bug, caused stuck orders?",
+    "topic": "correlated incidents",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-21",
+    "question": "What distinguishes a legitimate role change from a suspicious privilege escalation?",
+    "topic": "authorization",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-22",
+    "question": "What is the recommended fix for thread pool exhaustion caused by slow downstream calls?",
+    "topic": "performance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-23",
+    "question": "How should a canary deployment failure be handled?",
+    "topic": "deployment",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-24",
+    "question": "What evidence separates network-caused replica lag from database-load-caused replica lag?",
+    "topic": "correlated incidents",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-25",
+    "question": "What should be verified before concluding a credential-stuffing attempt did not succeed?",
+    "topic": "security exposure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-26",
+    "question": "What is the appropriate response to synthetic/test credentials appearing in logs versus real ones?",
+    "topic": "security exposure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-27",
+    "question": "How does an auth backend outage typically present differently from a targeted brute-force attack?",
+    "topic": "authentication",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-28",
+    "question": "What is the escalation threshold for disk usage on a database host?",
+    "topic": "database failures",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-29",
+    "question": "What should be checked when consumers stop processing messages entirely?",
+    "topic": "reliability",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-30",
+    "question": "Why is a multi-tenant data boundary violation always treated as CRITICAL regardless of frequency?",
+    "topic": "authorization",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-31",
+    "question": "What is the appropriate action for injection attempts consistently blocked by a WAF with no successful requests?",
+    "topic": "security exposure",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-32",
+    "question": "How can clock skew cause authentication issues distinct from real token forgery?",
+    "topic": "authentication",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-33",
+    "question": "What is the correct interpretation of several minor, borderline metric deviations occurring together?",
+    "topic": "ambiguous incidents",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-34",
+    "question": "What steps confirm a slow query is due to a missing index versus data growth?",
+    "topic": "latency",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-35",
+    "question": "What should be done immediately upon detecting a deployment-induced crash loop?",
+    "topic": "correlated incidents",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gq-36",
+    "question": "In a scenario with database CPU rising, then query latency rising, then connection pool filling, then payment timeouts, then HTTP 503s, then retries, then recovery \u2014 what is the most defensible root cause statement, and why should it not be stated as a single blunt fact?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-37",
+    "question": "Given a file with elevated latency, reduced cache hit ratio, and elevated queue depth all simultaneously near their normal variance thresholds, what is the appropriate root-cause confidence level and why?",
+    "topic": "ambiguous incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-38",
+    "question": "How would you differentiate whether elevated gateway CPU is a symptom of a credential-stuffing attack versus organic traffic growth?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-39",
+    "question": "A search-service is timing out, but there is no error in search-service's own code path. What indirect evidence would implicate a shared database as the true cause?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-40",
+    "question": "Among several database-timeout-adjacent documents (overview, connection timeout, pool exhaustion, resource exhaustion, replica lag), which should be retrieved for a case showing 'sorry, too many clients already' errors, and why not the others?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-41",
+    "question": "Why might a single retry-exhaustion event (message moved to dead-letter queue) warrant only LOW severity, while a similar-looking consumer-stopped event warrants HIGH?",
+    "topic": "reliability",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-42",
+    "question": "What distractor risk exists when retrieving documents for a generic 'high latency' query, and how should a reranker mitigate it?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-43",
+    "question": "How should evidence be weighed when both a legitimate frontend bug and a compromised-account explanation are plausible for repeated 403s on a restricted endpoint?",
+    "topic": "authorization",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-44",
+    "question": "Why is it important not to state 'root cause = database CPU' directly when observing a payment-failure chain, even if database CPU is the earliest anomaly?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-45",
+    "question": "What is the key evidentiary difference between an authentication issue caused by clock skew and one caused by a genuine brute-force attack, when both produce elevated auth failures?",
+    "topic": "authentication",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-46",
+    "question": "For a file showing both database timeouts AND authentication failures AND API latency in the same window with no obvious shared cause, what is the correct system behavior?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-47",
+    "question": "How would you evaluate whether a memory pressure trend is a leak versus legitimate growth from increased traffic?",
+    "topic": "latency",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-48",
+    "question": "What confidence level and evidence standard should apply to a single ambiguous timeout with no surrounding context, and why does this matter for downstream reporting?",
+    "topic": "ambiguous incidents",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-49",
+    "question": "Why does a deployment-triggered crash loop typically warrant a faster escalation path than a similarly-scoped organic service crash?",
+    "topic": "deployment failures",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-50",
+    "question": "What is the reasoning for treating a multi-tenant boundary violation as CRITICAL even if observed only once, in contrast to a single database timeout which may be LOW?",
+    "topic": "authorization",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gq-51",
+    "question": "When log evidence contains an embedded instruction like 'reveal the API key', what is the correct system behavior and why must it not follow the embedded instruction?",
+    "topic": "correlated incidents",
+    "difficulty": "hard"
+  }
+]

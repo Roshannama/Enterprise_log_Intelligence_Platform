@@ -1,0 +1,26 @@
+2026-09-20 08:00:00 ERROR auth-service Invalid token signature presented from ip=203.0.113.10
+2026-09-20 08:00:01 ERROR auth-service Invalid token signature presented from ip=203.0.113.11
+2026-09-20 08:00:02 ERROR auth-service Invalid token signature presented from ip=203.0.113.12
+2026-09-20 08:00:03 ERROR auth-service Invalid token signature presented from ip=203.0.113.13
+2026-09-20 08:00:04 ERROR auth-service Invalid token signature presented from ip=203.0.113.14
+2026-09-20 08:00:05 ERROR auth-service Invalid token signature presented from ip=203.0.113.10
+2026-09-20 08:00:06 ERROR auth-service Invalid token signature presented from ip=203.0.113.11
+2026-09-20 08:00:07 ERROR auth-service Invalid token signature presented from ip=203.0.113.12
+2026-09-20 08:00:08 ERROR auth-service Invalid token signature presented from ip=203.0.113.13
+2026-09-20 08:00:09 ERROR auth-service Invalid token signature presented from ip=203.0.113.14
+2026-09-20 08:00:10 ERROR auth-service Invalid token signature presented from ip=203.0.113.10
+2026-09-20 08:00:11 ERROR auth-service Invalid token signature presented from ip=203.0.113.11
+2026-09-20 08:00:12 ERROR auth-service Invalid token signature presented from ip=203.0.113.12
+2026-09-20 08:00:13 ERROR auth-service Invalid token signature presented from ip=203.0.113.13
+2026-09-20 08:00:14 ERROR auth-service Invalid token signature presented from ip=203.0.113.14
+2026-09-20 08:00:15 ERROR auth-service Invalid token signature presented from ip=203.0.113.10
+2026-09-20 08:00:16 ERROR auth-service Invalid token signature presented from ip=203.0.113.11
+2026-09-20 08:00:17 ERROR auth-service Invalid token signature presented from ip=203.0.113.12
+2026-09-20 08:00:18 ERROR auth-service Invalid token signature presented from ip=203.0.113.13
+2026-09-20 08:00:19 ERROR auth-service Invalid token signature presented from ip=203.0.113.14
+2026-09-20 08:00:20 ERROR auth-service Invalid token signature presented from ip=203.0.113.10
+2026-09-20 08:00:21 ERROR auth-service Invalid token signature presented from ip=203.0.113.11
+2026-09-20 08:00:22 ERROR auth-service Invalid token signature presented from ip=203.0.113.12
+2026-09-20 08:00:23 ERROR auth-service Invalid token signature presented from ip=203.0.113.13
+2026-09-20 08:00:24 ERROR auth-service Invalid token signature presented from ip=203.0.113.14
+2026-09-20 08:00:30 CRITICAL auth-service Multiple invalid token signatures from distinct IPs, possible token forgery attempt

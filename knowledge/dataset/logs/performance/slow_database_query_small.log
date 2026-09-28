@@ -1,0 +1,25 @@
+2026-09-20 08:00:00 INFO database-service Query executed query_time_ms=72
+2026-09-20 08:00:03 INFO database-service Query executed query_time_ms=79
+2026-09-20 08:00:06 INFO database-service Query executed query_time_ms=51
+2026-09-20 08:00:09 INFO database-service Query executed query_time_ms=56
+2026-09-20 08:00:12 INFO database-service Query executed query_time_ms=78
+2026-09-20 08:00:15 INFO database-service Query executed query_time_ms=86
+2026-09-20 08:00:18 INFO database-service Query executed query_time_ms=63
+2026-09-20 08:00:21 INFO database-service Query executed query_time_ms=46
+2026-09-20 08:00:24 INFO database-service Query executed query_time_ms=71
+2026-09-20 08:00:27 INFO database-service Query executed query_time_ms=88
+2026-09-20 08:00:30 INFO database-service Query executed query_time_ms=88
+2026-09-20 08:00:33 INFO database-service Query executed query_time_ms=33
+2026-09-20 08:00:36 INFO database-service Query executed query_time_ms=68
+2026-09-20 08:00:39 INFO database-service Query executed query_time_ms=57
+2026-09-20 08:00:42 INFO database-service Query executed query_time_ms=88
+2026-09-20 08:00:50 WARNING database-service Slow query detected query_time_ms=3229 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:00:53 WARNING database-service Slow query detected query_time_ms=5172 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:00:56 WARNING database-service Slow query detected query_time_ms=5375 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:00:59 WARNING database-service Slow query detected query_time_ms=5588 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:01:02 WARNING database-service Slow query detected query_time_ms=3080 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:01:05 WARNING database-service Slow query detected query_time_ms=7955 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:01:08 WARNING database-service Slow query detected query_time_ms=4365 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:01:11 WARNING database-service Slow query detected query_time_ms=8430 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:01:14 WARNING database-service Slow query detected query_time_ms=8242 query=SELECT * FROM orders WHERE status=?
+2026-09-20 08:01:17 WARNING database-service Slow query detected query_time_ms=7216 query=SELECT * FROM orders WHERE status=?

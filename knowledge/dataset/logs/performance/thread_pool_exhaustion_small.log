@@ -1,0 +1,12 @@
+2026-09-20 08:00:00 WARNING api-gateway Thread pool utilization at 60%
+2026-09-20 08:00:02 WARNING api-gateway Thread pool utilization at 64%
+2026-09-20 08:00:04 WARNING api-gateway Thread pool utilization at 68%
+2026-09-20 08:00:06 WARNING api-gateway Thread pool utilization at 72%
+2026-09-20 08:00:08 WARNING api-gateway Thread pool utilization at 76%
+2026-09-20 08:00:10 WARNING api-gateway Thread pool utilization at 80%
+2026-09-20 08:00:12 WARNING api-gateway Thread pool utilization at 84%
+2026-09-20 08:00:14 WARNING api-gateway Thread pool utilization at 88%
+2026-09-20 08:00:16 WARNING api-gateway Thread pool utilization at 92%
+2026-09-20 08:00:18 WARNING api-gateway Thread pool utilization at 96%
+2026-09-20 08:00:40 ERROR api-gateway Thread pool exhausted: rejecting new requests
+2026-09-20 08:00:50 INFO api-gateway Thread pool utilization back to normal

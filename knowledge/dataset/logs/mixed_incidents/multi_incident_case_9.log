@@ -1,0 +1,47 @@
+2026-09-20 08:00:20 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:04 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:15 level=WARNING service=api-service component=api-service request_id=req-351935 trace_id=trace-13920587 user_id=user-3091 status_code=200 latency_ms=5147 message="Request completed slowly"
+2026-09-20 08:00:14 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:16 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:24 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:06 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:58 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:10 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:29 level=WARNING service=api-service component=api-service request_id=req-750709 trace_id=trace-69677601 user_id=user-5105 status_code=200 latency_ms=5706 message="Request completed slowly"
+2026-09-20 08:00:28 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:20 level=WARNING service=api-service component=api-service request_id=req-897914 trace_id=trace-22832144 user_id=user-5303 status_code=200 latency_ms=5091 message="Request completed slowly"
+2026-09-20 08:01:23 level=WARNING service=api-service component=api-service request_id=req-138181 trace_id=trace-33526512 user_id=user-2392 status_code=200 latency_ms=5255 message="Request completed slowly"
+2026-09-20 08:00:12 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:10 level=WARNING service=api-service component=api-service request_id=req-303675 trace_id=trace-52773098 user_id=user-8258 status_code=200 latency_ms=4287 message="Request completed slowly"
+2026-09-20 08:01:12 level=WARNING service=api-service component=api-service request_id=req-237627 trace_id=trace-11027542 user_id=user-8154 status_code=200 latency_ms=5425 message="Request completed slowly"
+2026-09-20 08:00:42 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:08 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:26 level=WARNING service=api-service component=api-service request_id=req-686411 trace_id=trace-96231589 user_id=user-1408 status_code=200 latency_ms=5038 message="Request completed slowly"
+2026-09-20 08:00:18 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:16 level=WARNING service=api-service component=api-service request_id=req-118028 trace_id=trace-19769429 user_id=user-1388 status_code=200 latency_ms=5213 message="Request completed slowly"
+2026-09-20 08:01:27 level=WARNING service=api-service component=api-service request_id=req-338387 trace_id=trace-72365495 user_id=user-2890 status_code=200 latency_ms=5759 message="Request completed slowly"
+2026-09-20 08:01:13 level=WARNING service=api-service component=api-service request_id=req-223375 trace_id=trace-95839833 user_id=user-6888 status_code=200 latency_ms=4184 message="Request completed slowly"
+2026-09-20 08:01:28 level=WARNING service=api-service component=api-service request_id=req-252996 trace_id=trace-23065677 user_id=user-4635 status_code=200 latency_ms=5734 message="Request completed slowly"
+2026-09-20 08:01:17 level=WARNING service=api-service component=api-service request_id=req-207297 trace_id=trace-93491436 user_id=user-5713 status_code=200 latency_ms=4229 message="Request completed slowly"
+2026-09-20 08:00:26 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:02 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:25 level=WARNING service=api-service component=api-service request_id=req-504253 trace_id=trace-39798083 user_id=user-6641 status_code=200 latency_ms=3092 message="Request completed slowly"
+2026-09-20 08:01:22 level=WARNING service=api-service component=api-service request_id=req-401819 trace_id=trace-94397189 user_id=user-3111 status_code=200 latency_ms=4860 message="Request completed slowly"
+2026-09-20 08:01:11 level=WARNING service=api-service component=api-service request_id=req-272734 trace_id=trace-96319246 user_id=user-9693 status_code=200 latency_ms=3596 message="Request completed slowly"
+2026-09-20 08:00:46 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:22 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:44 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:02 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:48 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:56 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:14 level=WARNING service=api-service component=api-service request_id=req-683558 trace_id=trace-15494184 user_id=user-8608 status_code=200 latency_ms=5004 message="Request completed slowly"
+2026-09-20 08:00:54 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:24 level=WARNING service=api-service component=api-service request_id=req-634710 trace_id=trace-84553321 user_id=user-4658 status_code=200 latency_ms=5627 message="Request completed slowly"
+2026-09-20 08:01:18 level=WARNING service=api-service component=api-service request_id=req-445430 trace_id=trace-42559181 user_id=user-5936 status_code=200 latency_ms=5917 message="Request completed slowly"
+2026-09-20 08:00:52 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:50 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:00 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:19 level=WARNING service=api-service component=api-service request_id=req-743054 trace_id=trace-54683274 user_id=user-3068 status_code=200 latency_ms=3316 message="Request completed slowly"
+2026-09-20 08:01:21 level=WARNING service=api-service component=api-service request_id=req-592338 trace_id=trace-84580788 user_id=user-7717 status_code=200 latency_ms=4179 message="Request completed slowly"
+2026-09-20 08:01:00 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:40 WARNING auth-service Failed login attempt for user

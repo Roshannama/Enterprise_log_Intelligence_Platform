@@ -1,0 +1,4 @@
+2026-09-20 08:00:00 ERROR notification-service Unhandled promise rejection
+Error: ETIMEDOUT connecting to smtp relay (synthetic)
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1234:16)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

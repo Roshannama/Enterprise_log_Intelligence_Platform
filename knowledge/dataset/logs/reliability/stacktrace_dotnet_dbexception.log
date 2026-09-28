@@ -1,0 +1,5 @@
+2026-09-20 08:00:00 ERROR payment-service Unhandled exception
+System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred (synthetic)
+   at Payments.Data.PaymentRepository.GetById(Int32 id)
+   at Payments.Services.PaymentService.Process(PaymentRequest request)
+DatabaseException: connection could not be established

@@ -1,0 +1,4 @@
+2026-09-20 08:01:26 WARNING auth-service Elevated failed login attempts from one IP range
+2026-09-20 08:02:55 CRITICAL auth-service Rate limiter engaged for suspicious IP range
+2026-09-20 08:04:32 WARNING api-gateway CPU usage elevated handling rejected auth traffic
+2026-09-20 08:05:51 INFO api-gateway Load normalized after IP range blocked

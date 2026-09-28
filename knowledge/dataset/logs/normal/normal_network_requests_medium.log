@@ -1,0 +1,179 @@
+2026-09-20 08:00:00 DEBUG worker-service Job picked up
+2026-09-20 08:00:02 INFO database-service Index scan completed
+2026-09-20 08:00:04 INFO inventory-service Inventory reserved
+2026-09-20 08:00:06 level=INFO service=auth-service component=auth-service request_id=req-115743 trace_id=trace-46219821 user_id=user-7767 status_code=200 latency_ms=210 message="Token issued"
+2026-09-20 08:00:08 INFO user-service User preferences updated
+2026-09-20 08:00:10 INFO payment-service Refund processed successfully
+2026-09-20 08:00:12 INFO database-service Index scan completed
+2026-09-20 08:00:14 INFO notification-service Email queued
+2026-09-20 08:00:16 INFO notification-service Push notification sent
+2026-09-20 08:00:18 INFO scheduler-service Cron tick processed
+2026-09-20 08:00:20 level=INFO service=scheduler-service component=scheduler-service request_id=req-967182 trace_id=trace-15692967 user_id=user-5025 status_code=200 latency_ms=131 message="Cron tick processed"
+2026-09-20 08:00:22 INFO redis-service Cache hit
+2026-09-20 08:00:24 level=INFO service=redis-service component=redis-service request_id=req-517375 trace_id=trace-50876565 user_id=user-5684 status_code=200 latency_ms=127 message="Cache hit"
+2026-09-20 08:00:26 INFO database-service Transaction committed
+2026-09-20 08:00:28 INFO api-gateway Health check OK
+2026-09-20 08:00:30 INFO worker-service Worker heartbeat OK
+2026-09-20 08:00:32 level=INFO service=auth-service component=auth-service request_id=req-439173 trace_id=trace-70516875 user_id=user-1408 status_code=200 latency_ms=120 message="Logout successful"
+2026-09-20 08:00:34 INFO auth-service Token issued
+2026-09-20 08:00:36 INFO payment-service Payment authorized
+2026-09-20 08:00:38 INFO payment-service Refund processed successfully
+2026-09-20 08:00:40 INFO payment-service Refund processed successfully
+2026-09-20 08:00:42 INFO redis-service Cache set
+2026-09-20 08:00:44 DEBUG notification-service Email queued
+2026-09-20 08:00:46 level=INFO service=search-service component=search-service request_id=req-287555 trace_id=trace-16886777 user_id=user-7874 status_code=200 latency_ms=52 message="Search query executed"
+2026-09-20 08:00:48 level=INFO service=order-service component=order-service request_id=req-223264 trace_id=trace-27659164 user_id=user-4323 status_code=200 latency_ms=61 message="Order status updated"
+2026-09-20 08:00:50 level=INFO service=api-gateway component=api-gateway request_id=req-996963 trace_id=trace-76926628 user_id=user-9904 status_code=200 latency_ms=142 message="Rate limit check passed"
+2026-09-20 08:00:52 level=DEBUG service=monitoring-service component=monitoring-service request_id=req-791505 trace_id=trace-73848982 user_id=user-8434 status_code=200 latency_ms=165 message="Health probe OK"
+2026-09-20 08:00:54 INFO notification-service SMS delivered
+2026-09-20 08:00:56 INFO user-service User created
+2026-09-20 08:00:58 level=INFO service=redis-service component=redis-service request_id=req-157738 trace_id=trace-97681338 user_id=user-6718 status_code=200 latency_ms=52 message="Cache set"
+2026-09-20 08:01:00 INFO api-gateway Request routed successfully
+2026-09-20 08:01:02 level=INFO service=search-service component=search-service request_id=req-286906 trace_id=trace-31654047 user_id=user-5659 status_code=200 latency_ms=121 message="Search query executed"
+2026-09-20 08:01:04 INFO search-service Query results returned
+2026-09-20 08:01:06 INFO monitoring-service Health probe OK
+2026-09-20 08:01:08 INFO inventory-service Stock level checked
+2026-09-20 08:01:10 INFO inventory-service Inventory reserved
+2026-09-20 08:01:12 level=INFO service=monitoring-service component=monitoring-service request_id=req-241081 trace_id=trace-26377680 user_id=user-5496 status_code=200 latency_ms=135 message="Alert evaluated: no action"
+2026-09-20 08:01:14 level=INFO service=inventory-service component=inventory-service request_id=req-741784 trace_id=trace-17809403 user_id=user-2790 status_code=200 latency_ms=68 message="Inventory released"
+2026-09-20 08:01:16 INFO search-service Query results returned
+2026-09-20 08:01:18 INFO payment-service Payment gateway responded 200
+2026-09-20 08:01:20 INFO scheduler-service Cron tick processed
+2026-09-20 08:01:22 INFO order-service Order shipped
+2026-09-20 08:01:24 INFO search-service Query results returned
+2026-09-20 08:01:26 INFO database-service Connection acquired from pool
+2026-09-20 08:01:28 level=INFO service=user-service component=user-service request_id=req-587467 trace_id=trace-93947919 user_id=user-2932 status_code=200 latency_ms=21 message="User preferences updated"
+2026-09-20 08:01:30 INFO scheduler-service Cron tick processed
+2026-09-20 08:01:32 DEBUG notification-service Push notification sent
+2026-09-20 08:01:34 level=INFO service=worker-service component=worker-service request_id=req-366776 trace_id=trace-19104802 user_id=user-6042 status_code=200 latency_ms=87 message="Worker heartbeat OK"
+2026-09-20 08:01:36 INFO order-service Order shipped
+2026-09-20 08:01:38 INFO payment-service Payment captured
+2026-09-20 08:01:40 INFO search-service Search query executed
+2026-09-20 08:01:42 INFO user-service User created
+2026-09-20 08:01:44 INFO database-service Query executed successfully
+2026-09-20 08:01:46 INFO database-service Index scan completed
+2026-09-20 08:01:48 INFO redis-service Cache warmed
+2026-09-20 08:01:50 INFO notification-service Email queued
+2026-09-20 08:01:52 INFO order-service Order shipped
+2026-09-20 08:01:54 INFO api-gateway TLS handshake completed
+2026-09-20 08:01:56 level=INFO service=monitoring-service component=monitoring-service request_id=req-455627 trace_id=trace-60363964 user_id=user-9753 status_code=200 latency_ms=22 message="Metrics scraped"
+2026-09-20 08:01:58 level=INFO service=auth-service component=auth-service request_id=req-920347 trace_id=trace-51376831 user_id=user-6152 status_code=200 latency_ms=44 message="Session created"
+2026-09-20 08:02:00 level=DEBUG service=scheduler-service component=scheduler-service request_id=req-349185 trace_id=trace-59873103 user_id=user-8404 status_code=200 latency_ms=239 message="Scheduled job completed"
+2026-09-20 08:02:02 level=INFO service=order-service component=order-service request_id=req-923073 trace_id=trace-15019076 user_id=user-4311 status_code=200 latency_ms=110 message="Order shipped"
+2026-09-20 08:02:04 INFO payment-service Payment request received
+2026-09-20 08:02:06 INFO redis-service Key expired normally
+2026-09-20 08:02:08 INFO scheduler-service Scheduled job completed
+2026-09-20 08:02:10 INFO auth-service User authenticated successfully
+2026-09-20 08:02:12 level=INFO service=redis-service component=redis-service request_id=req-581682 trace_id=trace-62021209 user_id=user-9558 status_code=200 latency_ms=24 message="Cache set"
+2026-09-20 08:02:14 DEBUG payment-service Payment request received
+2026-09-20 08:02:16 INFO search-service Index refreshed
+2026-09-20 08:02:18 INFO api-gateway TLS handshake completed
+2026-09-20 08:02:20 INFO api-gateway Rate limit check passed
+2026-09-20 08:02:22 level=INFO service=user-service component=user-service request_id=req-434652 trace_id=trace-69205536 user_id=user-2927 status_code=200 latency_ms=151 message="User preferences updated"
+2026-09-20 08:02:24 level=INFO service=order-service component=order-service request_id=req-686810 trace_id=trace-78996054 user_id=user-2677 status_code=200 latency_ms=174 message="Order shipped"
+2026-09-20 08:02:26 level=INFO service=user-service component=user-service request_id=req-943058 trace_id=trace-48019546 user_id=user-5011 status_code=200 latency_ms=195 message="User created"
+2026-09-20 08:02:28 INFO auth-service Logout successful
+2026-09-20 08:02:30 level=INFO service=redis-service component=redis-service request_id=req-808308 trace_id=trace-16772091 user_id=user-2735 status_code=200 latency_ms=246 message="Cache set"
+2026-09-20 08:02:32 INFO notification-service Push notification sent
+2026-09-20 08:02:34 INFO scheduler-service Cron tick processed
+2026-09-20 08:02:36 INFO scheduler-service Cron tick processed
+2026-09-20 08:02:38 INFO inventory-service Inventory released
+2026-09-20 08:02:40 INFO monitoring-service Health probe OK
+2026-09-20 08:02:42 level=INFO service=payment-service component=payment-service request_id=req-817727 trace_id=trace-96492401 user_id=user-8625 status_code=200 latency_ms=94 message="Refund processed successfully"
+2026-09-20 08:02:44 level=INFO service=database-service component=database-service request_id=req-746910 trace_id=trace-44635255 user_id=user-6954 status_code=200 latency_ms=244 message="Connection acquired from pool"
+2026-09-20 08:02:46 INFO notification-service SMS delivered
+2026-09-20 08:02:48 level=INFO service=inventory-service component=inventory-service request_id=req-468512 trace_id=trace-74243595 user_id=user-8556 status_code=200 latency_ms=43 message="Stock level checked"
+2026-09-20 08:02:50 INFO auth-service Token refreshed
+2026-09-20 08:02:52 INFO auth-service Session created
+2026-09-20 08:02:54 INFO monitoring-service Alert evaluated: no action
+2026-09-20 08:02:56 INFO monitoring-service Health probe OK
+2026-09-20 08:02:58 INFO notification-service Email queued
+2026-09-20 08:03:00 level=INFO service=database-service component=database-service request_id=req-719677 trace_id=trace-67867771 user_id=user-8132 status_code=200 latency_ms=192 message="Transaction committed"
+2026-09-20 08:03:02 INFO search-service Query results returned
+2026-09-20 08:03:04 INFO auth-service User authenticated successfully
+2026-09-20 08:03:06 level=INFO service=scheduler-service component=scheduler-service request_id=req-585394 trace_id=trace-53671508 user_id=user-2599 status_code=200 latency_ms=167 message="Scheduled job completed"
+2026-09-20 08:03:08 level=INFO service=database-service component=database-service request_id=req-818807 trace_id=trace-90048179 user_id=user-7208 status_code=200 latency_ms=42 message="Index scan completed"
+2026-09-20 08:03:10 level=INFO service=inventory-service component=inventory-service request_id=req-956721 trace_id=trace-28645088 user_id=user-1003 status_code=200 latency_ms=70 message="Inventory released"
+2026-09-20 08:03:12 INFO monitoring-service Metrics scraped
+2026-09-20 08:03:14 level=INFO service=order-service component=order-service request_id=req-431976 trace_id=trace-50229795 user_id=user-5989 status_code=200 latency_ms=189 message="Order status updated"
+2026-09-20 08:03:16 INFO notification-service Push notification sent
+2026-09-20 08:03:18 DEBUG search-service Query results returned
+2026-09-20 08:03:20 INFO auth-service User authenticated successfully
+2026-09-20 08:03:22 WARNING redis-service Cache hit
+2026-09-20 08:03:24 INFO inventory-service Inventory reserved
+2026-09-20 08:03:26 INFO user-service Profile cache warmed
+2026-09-20 08:03:28 INFO scheduler-service Scheduled job completed
+2026-09-20 08:03:30 level=INFO service=user-service component=user-service request_id=req-503277 trace_id=trace-58357021 user_id=user-7835 status_code=200 latency_ms=157 message="Profile cache warmed"
+2026-09-20 08:03:32 level=INFO service=auth-service component=auth-service request_id=req-779885 trace_id=trace-12108265 user_id=user-3359 status_code=200 latency_ms=33 message="Token issued"
+2026-09-20 08:03:34 INFO scheduler-service Cron tick processed
+2026-09-20 08:03:36 INFO auth-service Session created
+2026-09-20 08:03:38 INFO monitoring-service Health probe OK
+2026-09-20 08:03:40 INFO database-service Index scan completed
+2026-09-20 08:03:42 INFO user-service User profile fetched
+2026-09-20 08:03:44 level=INFO service=scheduler-service component=scheduler-service request_id=req-704349 trace_id=trace-59253883 user_id=user-1548 status_code=200 latency_ms=154 message="Cron tick processed"
+2026-09-20 08:03:46 INFO api-gateway TLS handshake completed
+2026-09-20 08:03:48 level=INFO service=search-service component=search-service request_id=req-866816 trace_id=trace-80653292 user_id=user-5578 status_code=200 latency_ms=201 message="Query results returned"
+2026-09-20 08:03:50 level=INFO service=database-service component=database-service request_id=req-877714 trace_id=trace-99085263 user_id=user-2279 status_code=200 latency_ms=176 message="Query executed successfully"
+2026-09-20 08:03:52 INFO worker-service Worker heartbeat OK
+2026-09-20 08:03:54 INFO api-gateway Response sent
+2026-09-20 08:03:56 INFO database-service Index scan completed
+2026-09-20 08:03:58 level=INFO service=inventory-service component=inventory-service request_id=req-828813 trace_id=trace-90213415 user_id=user-5981 status_code=200 latency_ms=24 message="Inventory reserved"
+2026-09-20 08:04:00 level=INFO service=scheduler-service component=scheduler-service request_id=req-706224 trace_id=trace-32693431 user_id=user-1845 status_code=200 latency_ms=136 message="Scheduled job completed"
+2026-09-20 08:04:02 WARNING worker-service Worker heartbeat OK
+2026-09-20 08:04:04 INFO order-service Order confirmed
+2026-09-20 08:04:06 INFO monitoring-service Metrics scraped
+2026-09-20 08:04:08 INFO order-service Order created
+2026-09-20 08:04:10 INFO search-service Query results returned
+2026-09-20 08:04:12 level=INFO service=worker-service component=worker-service request_id=req-347669 trace_id=trace-75084661 user_id=user-3962 status_code=200 latency_ms=194 message="Job picked up"
+2026-09-20 08:04:14 INFO monitoring-service Metrics scraped
+2026-09-20 08:04:16 WARNING payment-service Payment gateway responded 200
+2026-09-20 08:04:18 INFO auth-service Session created
+2026-09-20 08:04:20 level=INFO service=user-service component=user-service request_id=req-982725 trace_id=trace-56315279 user_id=user-1890 status_code=200 latency_ms=202 message="User preferences updated"
+2026-09-20 08:04:22 level=INFO service=worker-service component=worker-service request_id=req-518114 trace_id=trace-73918769 user_id=user-5937 status_code=200 latency_ms=133 message="Job picked up"
+2026-09-20 08:04:24 INFO database-service Connection acquired from pool
+2026-09-20 08:04:26 level=INFO service=scheduler-service component=scheduler-service request_id=req-555851 trace_id=trace-11592230 user_id=user-5731 status_code=200 latency_ms=237 message="Scheduled job completed"
+2026-09-20 08:04:28 INFO monitoring-service Alert evaluated: no action
+2026-09-20 08:04:30 level=INFO service=redis-service component=redis-service request_id=req-768387 trace_id=trace-57490002 user_id=user-8074 status_code=200 latency_ms=151 message="Cache hit"
+2026-09-20 08:04:32 INFO search-service Index refreshed
+2026-09-20 08:04:34 INFO order-service Order shipped
+2026-09-20 08:04:36 INFO notification-service SMS delivered
+2026-09-20 08:04:38 INFO scheduler-service Scheduled job started
+2026-09-20 08:04:40 INFO worker-service Job picked up
+2026-09-20 08:04:42 level=INFO service=api-gateway component=api-gateway request_id=req-650779 trace_id=trace-23946199 user_id=user-8306 status_code=200 latency_ms=40 message="Request routed successfully"
+2026-09-20 08:04:44 level=INFO service=inventory-service component=inventory-service request_id=req-124851 trace_id=trace-93134088 user_id=user-2506 status_code=200 latency_ms=23 message="Inventory reserved"
+2026-09-20 08:04:46 INFO api-gateway TLS handshake completed
+2026-09-20 08:04:48 WARNING user-service User profile fetched
+2026-09-20 08:04:50 level=INFO service=payment-service component=payment-service request_id=req-900962 trace_id=trace-96960449 user_id=user-4027 status_code=200 latency_ms=183 message="Payment gateway responded 200"
+2026-09-20 08:04:52 level=INFO service=payment-service component=payment-service request_id=req-179392 trace_id=trace-95735668 user_id=user-8429 status_code=200 latency_ms=184 message="Payment captured"
+2026-09-20 08:04:54 level=INFO service=order-service component=order-service request_id=req-177591 trace_id=trace-47216895 user_id=user-2022 status_code=200 latency_ms=214 message="Order shipped"
+2026-09-20 08:04:56 level=INFO service=notification-service component=notification-service request_id=req-377521 trace_id=trace-33881291 user_id=user-8218 status_code=200 latency_ms=223 message="Email queued"
+2026-09-20 08:04:58 INFO payment-service Payment authorized
+2026-09-20 08:05:00 level=INFO service=auth-service component=auth-service request_id=req-552202 trace_id=trace-39311339 user_id=user-2740 status_code=200 latency_ms=211 message="User authenticated successfully"
+2026-09-20 08:05:02 level=INFO service=database-service component=database-service request_id=req-699098 trace_id=trace-43634472 user_id=user-8305 status_code=200 latency_ms=33 message="Query executed successfully"
+2026-09-20 08:05:04 INFO api-gateway Health check OK
+2026-09-20 08:05:06 INFO api-gateway TLS handshake completed
+2026-09-20 08:05:08 INFO auth-service Session created
+2026-09-20 08:05:10 INFO redis-service Cache warmed
+2026-09-20 08:05:12 INFO notification-service Email queued
+2026-09-20 08:05:14 INFO api-gateway TLS handshake completed
+2026-09-20 08:05:16 INFO database-service Transaction committed
+2026-09-20 08:05:18 INFO order-service Order created
+2026-09-20 08:05:20 INFO inventory-service Inventory reserved
+2026-09-20 08:05:22 INFO order-service Order confirmed
+2026-09-20 08:05:24 INFO notification-service Push notification sent
+2026-09-20 08:05:26 INFO payment-service Payment captured
+2026-09-20 08:05:28 level=INFO service=worker-service component=worker-service request_id=req-126596 trace_id=trace-89583788 user_id=user-4907 status_code=200 latency_ms=64 message="Job picked up"
+2026-09-20 08:05:30 INFO database-service Transaction committed
+2026-09-20 08:05:32 level=INFO service=monitoring-service component=monitoring-service request_id=req-454123 trace_id=trace-15746469 user_id=user-7643 status_code=200 latency_ms=29 message="Metrics scraped"
+2026-09-20 08:05:34 INFO payment-service Payment gateway responded 200
+2026-09-20 08:05:36 level=INFO service=worker-service component=worker-service request_id=req-344303 trace_id=trace-19668169 user_id=user-1604 status_code=200 latency_ms=163 message="Worker heartbeat OK"
+2026-09-20 08:05:38 level=INFO service=scheduler-service component=scheduler-service request_id=req-748410 trace_id=trace-16147399 user_id=user-4976 status_code=200 latency_ms=247 message="Cron tick processed"
+2026-09-20 08:05:40 level=INFO service=scheduler-service component=scheduler-service request_id=req-422266 trace_id=trace-23058343 user_id=user-8474 status_code=200 latency_ms=27 message="Scheduled job started"
+2026-09-20 08:05:42 level=INFO service=search-service component=search-service request_id=req-211496 trace_id=trace-25324937 user_id=user-9145 status_code=200 latency_ms=224 message="Query results returned"
+2026-09-20 08:05:44 level=INFO service=search-service component=search-service request_id=req-546915 trace_id=trace-55277425 user_id=user-7586 status_code=200 latency_ms=66 message="Search query executed"
+2026-09-20 08:05:46 INFO inventory-service Inventory released
+2026-09-20 08:05:48 INFO auth-service Token issued
+2026-09-20 08:05:50 level=INFO service=search-service component=search-service request_id=req-894348 trace_id=trace-65721070 user_id=user-3753 status_code=200 latency_ms=51 message="Search query executed"
+2026-09-20 08:05:52 INFO scheduler-service Scheduled job started
+2026-09-20 08:05:54 DEBUG search-service Search query executed
+2026-09-20 08:05:56 level=INFO service=worker-service component=worker-service request_id=req-184643 trace_id=trace-10852226 user_id=user-1118 status_code=200 latency_ms=139 message="Job picked up"

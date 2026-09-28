@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        Log Intelligence Platform
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="/static/style.css"
+    >
+
+</head>
+
+<body>
+
+<!-- =====================================================
+     LOGIN
+     ===================================================== -->
+
+<div
+    id="loginScreen"
+    class="login-screen"
+>
+
+    <div class="login-card">
+
+        <div class="login-logo">
+            Log Intelligence
+        </div>
+
+        <h1>Welcome Back</h1>
+
+        <p class="login-subtitle">
+            Sign in to access the Enterprise
+            Log Intelligence Platform.
+        </p>
+
+        <form id="loginForm">
+
+            <div class="form-group">
+
+                <label for="username">
+                    Username
+                </label>
+
+                <input
+                    type="text"
+                    id="username"
+                    name="username"
+                    placeholder="Enter username"
+                    autocomplete="username"
+                    required
+                >
+
+            </div>
+
+            <div class="form-group">
+
+                <label for="password">
+                    Password
+                </label>
+
+                <input
+                    type="password"
+                    id="password"
+                    name="password"
+                    placeholder="Enter password"
+                    autocomplete="current-password"
+                    required
+                >
+
+            </div>
+
+            <button
+                type="submit"
+                id="loginButton"
+                class="login-button"
+            >
+                Login
+            </button>
+
+            <div
+                id="loginMessage"
+                class="login-message"
+            ></div>
+
+        </form>
+
+    </div>
+
+</div>
+
+
+<!-- =====================================================
+     APPLICATION
+     ===================================================== -->
+
+<div
+    id="appScreen"
+    class="app hidden"
+>
+
+    <aside class="sidebar">
+
+        <div class="logo">
+            Log Intelligence
+        </div>
+
+        <div class="user-panel">
+
+            <div class="user-avatar">
+                <span id="userInitial">U</span>
+            </div>
+
+            <div>
+
+                <div
+                    id="loggedUsername"
+                    class="logged-username"
+                >
+                    User
+                </div>
+
+                <div
+                    id="loggedRole"
+                    class="logged-role"
+                >
+                    Analyst
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="sidebar-section">
+
+            <h3>
+                Analyze Logs
+            </h3>
+
+            <label
+                for="fileInput"
+                class="upload-button"
+            >
+                Upload Log
+            </label>
+
+            <input
+                type="file"
+                id="fileInput"
+                accept=".log,.csv,.xlsx"
+                hidden
+            >
+
+        </div>
+
+
+        <div class="sidebar-section">
+
+            <h3>
+                Investigation
+            </h3>
+
+            <div id="investigationInfo">
+                No investigation loaded.
+            </div>
+
+        </div>
+
+
+        <div
+            id="adminNav"
+            class="sidebar-section admin-nav hidden"
+        >
+
+            <h3>
+                Administration
+            </h3>
+
+            <button
+                id="adminButton"
+                class="admin-button"
+                type="button"
+            >
+                User Management
+            </button>
+
+        </div>
+
+
+        <div class="sidebar-section logout-section">
+
+            <button
+                id="logoutButton"
+                class="logout-button"
+            >
+                Logout
+            </button>
+
+        </div>
+
+    </aside>
+
+
+    <main class="main">
+
+        <header class="header">
+
+            <div>
+
+                <h1>
+                    Log Intelligence Platform
+                </h1>
+
+                <p>
+                    AI-powered log analysis and
+                    root-cause investigation
+                </p>
+
+            </div>
+
+            <div
+                id="status"
+                class="status"
+            >
+                Ready
+            </div>
+
+        </header>
+
+
+        <!-- =================================================
+             UPLOAD
+             ================================================= -->
+
+        <section
+            id="uploadSection"
+            class="upload-area"
+        >
+
+            <div class="upload-icon">
+                ↑
+            </div>
+
+            <h2>
+                Analyze an Enterprise Log
+            </h2>
+
+            <p>
+                Upload a .log, .csv or .xlsx
+                file to start an investigation.
+            </p>
+
+            <label
+                for="fileInput"
+                class="primary-button"
+            >
+                Choose Log File
+            </label>
+
+            <div
+                id="uploadMessage"
+                class="message"
+            ></div>
+
+        </section>
+
+
+        <!-- =================================================
+             ADMIN
+             ================================================= -->
+
+        <section
+            id="adminSection"
+            class="admin-section hidden"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="section-eyebrow">
+                        ADMINISTRATION
+                    </span>
+
+                    <h2>
+                        User Management
+                    </h2>
+
+                    <p>
+                        Create accounts for analysts,
+                        viewers and administrators.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <form
+                id="registerForm"
+                class="register-form"
+            >
+
+                <div class="form-grid">
+
+                    <div class="form-group">
+
+                        <label for="newUsername">
+                            Username
+                        </label>
+
+                        <input
+                            id="newUsername"
+                            type="text"
+                            required
+                            minlength="3"
+                            maxlength="50"
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="newEmail">
+                            Email
+                        </label>
+
+                        <input
+                            id="newEmail"
+                            type="email"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="newFullName">
+                            Full Name
+                        </label>
+
+                        <input
+                            id="newFullName"
+                            type="text"
+                            required
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="newPassword">
+                            Password
+                        </label>
+
+                        <input
+                            id="newPassword"
+                            type="password"
+                            required
+                            minlength="6"
+                            maxlength="72"
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="newDepartment">
+                            Department
+                        </label>
+
+                        <input
+                            id="newDepartment"
+                            type="text"
+                            placeholder="Engineering"
+                        >
+
+                    </div>
+
+
+                    <div class="form-group">
+
+                        <label for="newRole">
+                            Role
+                        </label>
+
+                        <select id="newRole">
+
+                            <option value="analyst">
+                                Analyst
+                            </option>
+
+                            <option value="viewer">
+                                Viewer
+                            </option>
+
+                            <option value="admin">
+                                Admin
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                </div>
+
+
+                <button
+                    type="submit"
+                    id="registerButton"
+                    class="primary-button"
+                >
+                    Create User
+                </button>
+
+
+                <div
+                    id="registerMessage"
+                    class="register-message"
+                ></div>
+
+            </form>
+
+        </section>
+
+
+        <!-- =================================================
+             REPORT
+             ================================================= -->
+
+        <section
+            id="reportSection"
+            class="hidden"
+        >
+
+            <div class="card">
+
+                <h2>
+                    Investigation Summary
+                </h2>
+
+                <div
+                    id="incident"
+                    class="incident"
+                ></div>
+
+                <p id="summary"></p>
+
+            </div>
+
+
+            <div class="metrics">
+
+                <div class="metric-card">
+
+                    <span>Severity</span>
+
+                    <strong id="severity">
+                        -
+                    </strong>
+
+                </div>
+
+
+                <div class="metric-card">
+
+                    <span>Confidence</span>
+
+                    <strong id="confidence">
+                        -
+                    </strong>
+
+                </div>
+
+
+                <div class="metric-card">
+
+                    <span>Findings</span>
+
+                    <strong id="findingCount">
+                        -
+                    </strong>
+
+                </div>
+
+
+                <div class="metric-card">
+
+                    <span>Evidence</span>
+
+                    <strong id="evidenceCount">
+                        -
+                    </strong>
+
+                </div>
+
+            </div>
+
+
+            <div class="card">
+
+                <h2>
+                    Root Cause Analysis
+                </h2>
+
+                <h3>
+                    Potential Root Cause
+                </h3>
+
+                <p id="rootCause"></p>
+
+                <h3>
+                    Reasoning
+                </h3>
+
+                <p id="reasoning"></p>
+
+            </div>
+
+
+            <div class="card">
+
+                <h2>
+                    Findings
+                </h2>
+
+                <div
+                    id="findings"
+                    class="findings"
+                ></div>
+
+            </div>
+
+
+            <div class="card">
+
+                <h2>
+                    Evidence
+                </h2>
+
+                <div
+                    id="evidence"
+                    class="evidence"
+                ></div>
+
+            </div>
+
+
+            <div class="card">
+
+                <h2>
+                    Recommendations
+                </h2>
+
+                <ul id="recommendations"></ul>
+
+            </div>
+
+
+            <div class="card">
+
+                <h2>
+                    Limitations
+                </h2>
+
+                <ul id="limitations"></ul>
+
+            </div>
+
+
+            <div class="card">
+
+                <h2>
+                    Ask About This Investigation
+                </h2>
+
+                <div
+                    id="chatMessages"
+                    class="chat-messages"
+                ></div>
+
+                <div class="chat-input">
+
+                    <input
+                        id="chatInput"
+                        type="text"
+                        placeholder="Ask about the incident, evidence, RCA..."
+                    >
+
+                    <button
+                        id="chatButton"
+                        class="primary-button"
+                    >
+                        Ask
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+</div>
+
+
+<script src="/static/app.js"></script>
+
+</body>
+
+</html>

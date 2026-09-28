@@ -1,0 +1,7 @@
+2026-09-20 08:00:00 WARNING notification-service Retry attempt 1/5 for message msg-884794
+2026-09-20 08:00:05 WARNING notification-service Retry attempt 2/5 for message msg-366891
+2026-09-20 08:00:10 WARNING notification-service Retry attempt 3/5 for message msg-361906
+2026-09-20 08:00:15 WARNING notification-service Retry attempt 4/5 for message msg-331013
+2026-09-20 08:00:20 WARNING notification-service Retry attempt 5/5 for message msg-684640
+2026-09-20 08:00:25 WARNING notification-service Retry attempt 6/5 for message msg-576476
+2026-09-20 08:00:35 ERROR notification-service Retry exhaustion: message moved to dead-letter queue

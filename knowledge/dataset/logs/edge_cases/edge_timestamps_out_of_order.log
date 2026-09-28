@@ -1,0 +1,4 @@
+2026-09-20 08:00:50 INFO api-gateway Event A
+2026-09-20 08:00:10 INFO api-gateway Event B (earlier timestamp appears after A)
+2026-09-20 08:00:30 WARNING api-gateway Event C
+2026-09-20 08:00:05 ERROR database-service Event D, earliest timestamp appears last

@@ -1,0 +1,47 @@
+2026-09-20 08:01:19 level=WARNING service=api-service component=api-service request_id=req-691967 trace_id=trace-84062872 user_id=user-2176 status_code=200 latency_ms=4656 message="Request completed slowly"
+2026-09-20 08:00:42 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:16 level=WARNING service=api-service component=api-service request_id=req-166733 trace_id=trace-69317988 user_id=user-1048 status_code=200 latency_ms=4739 message="Request completed slowly"
+2026-09-20 08:01:14 level=WARNING service=api-service component=api-service request_id=req-397203 trace_id=trace-97282022 user_id=user-2348 status_code=200 latency_ms=5231 message="Request completed slowly"
+2026-09-20 08:00:50 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:40 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:18 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:21 level=WARNING service=api-service component=api-service request_id=req-926000 trace_id=trace-50245439 user_id=user-5480 status_code=200 latency_ms=3933 message="Request completed slowly"
+2026-09-20 08:00:26 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:46 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:12 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:48 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:29 level=WARNING service=api-service component=api-service request_id=req-703075 trace_id=trace-96679103 user_id=user-7299 status_code=200 latency_ms=3121 message="Request completed slowly"
+2026-09-20 08:00:06 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:28 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:04 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:22 level=WARNING service=api-service component=api-service request_id=req-602805 trace_id=trace-61889106 user_id=user-1959 status_code=200 latency_ms=5734 message="Request completed slowly"
+2026-09-20 08:00:44 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:00 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:17 level=WARNING service=api-service component=api-service request_id=req-113765 trace_id=trace-31684479 user_id=user-3712 status_code=200 latency_ms=4379 message="Request completed slowly"
+2026-09-20 08:00:52 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:54 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:13 level=WARNING service=api-service component=api-service request_id=req-228274 trace_id=trace-56355704 user_id=user-6844 status_code=200 latency_ms=5978 message="Request completed slowly"
+2026-09-20 08:00:02 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:10 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:16 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:20 level=WARNING service=api-service component=api-service request_id=req-974647 trace_id=trace-48477438 user_id=user-2620 status_code=200 latency_ms=5644 message="Request completed slowly"
+2026-09-20 08:01:25 level=WARNING service=api-service component=api-service request_id=req-871693 trace_id=trace-27241808 user_id=user-3054 status_code=200 latency_ms=3105 message="Request completed slowly"
+2026-09-20 08:00:56 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:20 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:15 level=WARNING service=api-service component=api-service request_id=req-610715 trace_id=trace-45934752 user_id=user-2882 status_code=200 latency_ms=5568 message="Request completed slowly"
+2026-09-20 08:00:00 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:08 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:10 level=WARNING service=api-service component=api-service request_id=req-125130 trace_id=trace-72621128 user_id=user-4396 status_code=200 latency_ms=4593 message="Request completed slowly"
+2026-09-20 08:01:26 level=WARNING service=api-service component=api-service request_id=req-524744 trace_id=trace-48737319 user_id=user-4954 status_code=200 latency_ms=5195 message="Request completed slowly"
+2026-09-20 08:01:24 level=WARNING service=api-service component=api-service request_id=req-610502 trace_id=trace-70364220 user_id=user-5715 status_code=200 latency_ms=5842 message="Request completed slowly"
+2026-09-20 08:01:23 level=WARNING service=api-service component=api-service request_id=req-719497 trace_id=trace-44245054 user_id=user-4332 status_code=200 latency_ms=5888 message="Request completed slowly"
+2026-09-20 08:01:27 level=WARNING service=api-service component=api-service request_id=req-908085 trace_id=trace-13848263 user_id=user-3483 status_code=200 latency_ms=3824 message="Request completed slowly"
+2026-09-20 08:01:12 level=WARNING service=api-service component=api-service request_id=req-366975 trace_id=trace-62180659 user_id=user-3894 status_code=200 latency_ms=5904 message="Request completed slowly"
+2026-09-20 08:01:11 level=WARNING service=api-service component=api-service request_id=req-405803 trace_id=trace-61579960 user_id=user-8715 status_code=200 latency_ms=4228 message="Request completed slowly"
+2026-09-20 08:00:58 WARNING auth-service Failed login attempt for user
+2026-09-20 08:01:02 WARNING auth-service Failed login attempt for user
+2026-09-20 08:00:24 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:18 level=WARNING service=api-service component=api-service request_id=req-638569 trace_id=trace-99174845 user_id=user-2540 status_code=200 latency_ms=3315 message="Request completed slowly"
+2026-09-20 08:00:14 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:00:22 ERROR payment-service Database query timeout after 5000ms
+2026-09-20 08:01:28 level=WARNING service=api-service component=api-service request_id=req-994164 trace_id=trace-95149726 user_id=user-6699 status_code=200 latency_ms=4739 message="Request completed slowly"

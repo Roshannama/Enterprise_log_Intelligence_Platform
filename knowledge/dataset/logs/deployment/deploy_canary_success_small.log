@@ -1,0 +1,22 @@
+2026-09-20 08:00:00 INFO scheduler-service Canary deployment started for user-service v5.1.0, 5% traffic
+2026-09-20 08:00:02 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:03 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:04 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:05 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:06 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:07 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:08 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:09 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:10 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:11 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:12 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:13 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:14 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:15 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:16 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:17 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:18 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:19 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:20 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:21 INFO user-service Canary instance handling request successfully
+2026-09-20 08:00:30 INFO scheduler-service Canary metrics nominal, promoting to 100% traffic

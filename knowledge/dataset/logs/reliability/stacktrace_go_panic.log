@@ -1,0 +1,6 @@
+2026-09-20 08:00:00 CRITICAL search-service panic: runtime error: index out of range [5] with length 3
+goroutine 42 [running]:
+main.rankResults(...)
+	/app/search/rank.go:77 +0x1a2
+main.handleSearch(...)
+	/app/search/handler.go:31 +0x88

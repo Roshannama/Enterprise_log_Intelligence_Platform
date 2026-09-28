@@ -1,0 +1,5 @@
+2026-09-20 08:01:55 WARNING auth-service Token validation latency elevated
+2026-09-20 08:02:55 ERROR auth-service Token introspection endpoint slow, 3000ms
+2026-09-20 08:03:26 WARNING api-gateway Increased 401 responses due to auth timeout
+2026-09-20 08:05:10 ERROR user-service Downstream auth dependency unhealthy
+2026-09-20 08:06:46 INFO api-gateway Auth latency restored, error rate normal

@@ -1,0 +1,4 @@
+2026-09-20 08:00:00 FATAL search-service Unhandled exception
+java.lang.OutOfMemoryError: Java heap space
+	at com.example.search.IndexLoader.loadShard(IndexLoader.java:201)
+	at com.example.search.SearchService.warmup(SearchService.java:45)

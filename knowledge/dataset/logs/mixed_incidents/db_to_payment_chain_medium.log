@@ -1,0 +1,7 @@
+2026-09-20 08:00:46 WARNING database-service cpu_percent=88 sustained for 60s
+2026-09-20 08:01:35 WARNING database-service query_time_ms elevated to 4200 average
+2026-09-20 08:02:08 ERROR database-service Connection pool at 95% utilization
+2026-09-20 08:03:26 ERROR payment-service Request to database timed out after 5000ms
+2026-09-20 08:04:26 ERROR api-gateway Upstream payment-service returned 503
+2026-09-20 08:05:36 WARNING payment-service Retrying failed payment request
+2026-09-20 08:06:54 INFO payment-service Service recovered, latency nominal

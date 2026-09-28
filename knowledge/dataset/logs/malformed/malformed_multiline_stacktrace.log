@@ -1,0 +1,7 @@
+2026-09-20 08:00:00 ERROR worker-service Unhandled exception
+Traceback (most recent call last):
+  File "worker.py", line 42, in process_job
+    result = handler(job)
+  File "handler.py", line 17, in handler
+ConnectionError: Could not connect to upstream service (synthetic)
+2026-09-20 08:00:06 INFO worker-service Job retried successfully

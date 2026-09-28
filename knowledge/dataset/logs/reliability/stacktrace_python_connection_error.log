@@ -1,0 +1,7 @@
+2026-09-20 08:00:00 ERROR order-service Unhandled exception in request handler
+Traceback (most recent call last):
+  File "app/services/order.py", line 88, in create_order
+    conn = db_pool.acquire()
+  File "app/db/pool.py", line 34, in acquire
+    raise ConnectionTimeout('Could not acquire connection within 5000ms')
+ConnectionTimeout: Could not acquire connection within 5000ms

@@ -1,0 +1,4 @@
+2026-09-20 08:00:00 INFO scheduler-service Deployment started for notification-service v3.4.0
+2026-09-20 08:00:05 ERROR notification-service Missing required environment variable SMTP_HOST
+2026-09-20 08:00:06 CRITICAL notification-service Service failed to start
+2026-09-20 08:00:15 INFO scheduler-service Rollback to v3.3.1 completed

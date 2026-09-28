@@ -1,0 +1,19 @@
+2026-09-20 08:00:00 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:05 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:10 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:15 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:20 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:25 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:30 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:35 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:40 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:45 INFO monitoring-service Health probe OK for search-service
+2026-09-20 08:00:50 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:00:55 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:00 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:05 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:10 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:15 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:20 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:25 ERROR monitoring-service Health probe failed for search-service (timeout 3s)
+2026-09-20 08:01:35 INFO monitoring-service Health probe recovered for search-service

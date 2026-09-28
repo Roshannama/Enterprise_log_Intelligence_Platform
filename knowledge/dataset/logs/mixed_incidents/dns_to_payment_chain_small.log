@@ -1,0 +1,5 @@
+2026-09-20 08:00:31 ERROR api-gateway DNS lookup failed for payment-gateway.internal
+2026-09-20 08:02:06 ERROR payment-service Unable to reach payment gateway
+2026-09-20 08:04:03 WARNING order-service Orders stuck in pending_payment state
+2026-09-20 08:04:34 INFO api-gateway DNS resolution restored
+2026-09-20 08:06:19 INFO payment-service Payment gateway reachable, backlog draining

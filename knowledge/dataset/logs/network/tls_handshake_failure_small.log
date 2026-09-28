@@ -1,0 +1,9 @@
+2026-09-20 08:00:00 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:03 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:06 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:09 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:12 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:15 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:18 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:21 ERROR api-gateway TLS handshake failed: certificate verify failed
+2026-09-20 08:00:30 INFO api-gateway TLS handshake succeeded after certificate rotation

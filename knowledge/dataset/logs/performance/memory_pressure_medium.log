@@ -1,0 +1,21 @@
+2026-09-20 08:00:00 INFO search-service memory_percent=50.0
+2026-09-20 08:00:04 INFO search-service memory_percent=52.5
+2026-09-20 08:00:08 INFO search-service memory_percent=55.0
+2026-09-20 08:00:12 INFO search-service memory_percent=57.5
+2026-09-20 08:00:16 INFO search-service memory_percent=60.0
+2026-09-20 08:00:20 INFO search-service memory_percent=62.5
+2026-09-20 08:00:24 INFO search-service memory_percent=65.0
+2026-09-20 08:00:28 INFO search-service memory_percent=67.5
+2026-09-20 08:00:32 INFO search-service memory_percent=70.0
+2026-09-20 08:00:36 INFO search-service memory_percent=72.5
+2026-09-20 08:00:40 INFO search-service memory_percent=75.0
+2026-09-20 08:00:44 INFO search-service memory_percent=77.5
+2026-09-20 08:00:48 INFO search-service memory_percent=80.0
+2026-09-20 08:00:52 INFO search-service memory_percent=82.5
+2026-09-20 08:00:56 INFO search-service memory_percent=85.0
+2026-09-20 08:01:00 WARNING search-service memory_percent=87.5
+2026-09-20 08:01:04 WARNING search-service memory_percent=90.0
+2026-09-20 08:01:08 WARNING search-service memory_percent=92.5
+2026-09-20 08:01:12 WARNING search-service memory_percent=95.0
+2026-09-20 08:01:16 WARNING search-service memory_percent=97.5
+2026-09-20 08:01:25 CRITICAL search-service OutOfMemory warning: heap usage at 97%

@@ -1,0 +1,6 @@
+2026-09-20 08:00:00 WARNING api-gateway Request path contains traversal sequence: /files/../../etc/passwd
+2026-09-20 08:00:03 WARNING api-gateway Request path contains traversal sequence: /files/../../etc/passwd
+2026-09-20 08:00:06 WARNING api-gateway Request path contains traversal sequence: /files/../../etc/passwd
+2026-09-20 08:00:09 WARNING api-gateway Request path contains traversal sequence: /files/../../etc/passwd
+2026-09-20 08:00:12 WARNING api-gateway Request path contains traversal sequence: /files/../../etc/passwd
+2026-09-20 08:00:15 WARNING api-gateway Request path contains traversal sequence: /files/../../etc/passwd

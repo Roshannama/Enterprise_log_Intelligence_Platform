@@ -1,0 +1,2 @@
+2026-09-20 08:00:00 INFO api-gateway Field contains tabs	and	pipes | and null-like \x00 sequence (escaped)
+2026-09-20 08:00:02 INFO api-gateway Normal line

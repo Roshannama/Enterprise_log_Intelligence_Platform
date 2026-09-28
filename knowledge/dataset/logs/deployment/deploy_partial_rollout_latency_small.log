@@ -1,0 +1,18 @@
+2026-09-20 08:00:00 INFO scheduler-service Rolling deployment started for api-gateway v8.0.0
+2026-09-20 08:00:02 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:03 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:04 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:05 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:06 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:07 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:08 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:09 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:10 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:11 INFO api-gateway New revision instance healthy
+2026-09-20 08:00:15 WARNING api-gateway Old revision instance showing elevated latency during drain
+2026-09-20 08:00:16 WARNING api-gateway Old revision instance showing elevated latency during drain
+2026-09-20 08:00:17 WARNING api-gateway Old revision instance showing elevated latency during drain
+2026-09-20 08:00:18 WARNING api-gateway Old revision instance showing elevated latency during drain
+2026-09-20 08:00:19 WARNING api-gateway Old revision instance showing elevated latency during drain
+2026-09-20 08:00:20 WARNING api-gateway Old revision instance showing elevated latency during drain
+2026-09-20 08:00:25 INFO scheduler-service Rollout completed, old instances drained

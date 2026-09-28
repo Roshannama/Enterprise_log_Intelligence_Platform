@@ -1,0 +1,16 @@
+2026-09-20 08:00:00 WARNING database-service Connection pool utilization 70%
+2026-09-20 08:00:02 WARNING database-service Connection pool utilization 71%
+2026-09-20 08:00:04 WARNING database-service Connection pool utilization 72%
+2026-09-20 08:00:06 WARNING database-service Connection pool utilization 73%
+2026-09-20 08:00:08 WARNING database-service Connection pool utilization 74%
+2026-09-20 08:00:10 WARNING database-service Connection pool utilization 75%
+2026-09-20 08:00:12 WARNING database-service Connection pool utilization 76%
+2026-09-20 08:00:14 WARNING database-service Connection pool utilization 77%
+2026-09-20 08:00:16 WARNING database-service Connection pool utilization 78%
+2026-09-20 08:00:18 WARNING database-service Connection pool utilization 79%
+2026-09-20 08:00:20 WARNING database-service Connection pool utilization 80%
+2026-09-20 08:00:22 WARNING database-service Connection pool utilization 81%
+2026-09-20 08:00:24 WARNING database-service Connection pool utilization 82%
+2026-09-20 08:00:26 WARNING database-service Connection pool utilization 83%
+2026-09-20 08:00:28 WARNING database-service Connection pool utilization 84%
+2026-09-20 08:00:35 ERROR database-service Connection pool saturated, requests queued

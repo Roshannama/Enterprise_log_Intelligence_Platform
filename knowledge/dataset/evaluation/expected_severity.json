@@ -1,0 +1,414 @@
+[
+  {
+    "file": "logs/database/db_connection_timeout_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/database/db_deadlock_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/database/db_too_many_connections_medium.log",
+    "severity": "CRITICAL"
+  },
+  {
+    "file": "logs/database/db_unexpected_restart_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/database/db_unavailable_critical_medium.log",
+    "severity": "CRITICAL"
+  },
+  {
+    "file": "logs/reliability/worker_crash_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/circuit_breaker_opened_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/http_5xx_spike_large.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/reliability/health_check_failure_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/queue_backlog_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/consumer_stopped_small.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/reliability/retry_exhaustion_small.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/reliability/redis_unavailable_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/cache_miss_spike_large.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/network/dns_failure_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/network/tls_handshake_failure_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/network/upstream_unavailable_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/authentication/brute_force_pattern_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/authentication/expired_token_small.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/authentication/invalid_token_signature_medium.log",
+    "severity": "CRITICAL"
+  },
+  {
+    "file": "logs/authentication/auth_backend_outage_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/authorization/unauthorized_admin_access_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/authorization/privilege_escalation_indicator_small.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/security/credential_exposure_in_logs_small.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/security/sql_injection_attempt_small.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/security/path_traversal_attempt_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/security/command_injection_attempt_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/security/unusual_user_agent_scan_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/security/sensitive_data_in_debug_logs_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/performance/payment_latency_spike_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/performance/slow_database_query_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/performance/request_timeout_spike_large.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/performance/queue_wait_growth_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/performance/thread_pool_exhaustion_small.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/performance/cpu_pressure_gradual_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/performance/memory_pressure_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/performance/connection_pool_saturation_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/performance/retry_storm_large.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/performance/throughput_degradation_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/performance/borderline_latency_variation_medium.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/mixed_incidents/db_to_payment_chain_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/network_to_db_chain_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/auth_to_api_chain_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/deploy_to_service_chain_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/cache_to_latency_chain_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/queue_to_worker_chain_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/security_to_reliability_chain_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/dns_to_payment_chain_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/db_cpu_to_search_chain_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/mixed_root_ambiguous_chain_medium.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/edge_cases/ambiguous_single_timeout.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/edge_cases/ambiguous_single_auth_failure.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/edge_cases/ambiguous_single_db_warning.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/edge_cases/ambiguous_single_high_latency_request.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/edge_cases/ambiguous_generic_unavailable.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/noisy/noisy_buried_db_timeout.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/noisy/noisy_buried_auth_failures.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/noisy/noisy_buried_latency_spike.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/noisy/noisy_health_check_spam.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/noisy/noisy_duplicate_warning_storm.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/noisy/noisy_interleaved_multi_service.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/noisy/noisy_retry_flood.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/noisy/noisy_credential_hint.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/noisy/noisy_slow_query_hidden.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_1.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_2.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_3.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_4.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_5.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_6.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_7.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_8.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_9.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/mixed_incidents/multi_incident_case_10.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/reliability/stacktrace_python_connection_error.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/stacktrace_java_npe.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/stacktrace_nodejs_timeout.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/stacktrace_go_panic.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/stacktrace_dotnet_dbexception.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/stacktrace_oom_java.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/reliability/stacktrace_python_runtimeerror.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/edge_cases/edge_only_error_high_count.log",
+    "severity": "CRITICAL"
+  },
+  {
+    "file": "logs/edge_cases/edge_recovery_after_incident.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/infrastructure/disk_usage_critical_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/infrastructure/node_failure_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/deployment/deploy_missing_env_var_small.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/deployment/deploy_partial_rollout_latency_small.log",
+    "severity": "LOW"
+  },
+  {
+    "file": "logs/authorization/authz_repeated_restricted_resource_medium.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/network/network_connection_reset_medium.log",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "logs/database/db_timeout_large_scale_1.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/database/db_timeout_large_scale_2.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "logs/database/db_timeout_very_large_scale.log",
+    "severity": "HIGH"
+  },
+  {
+    "file": "csv/incidents/database_incident.csv",
+    "severity": "HIGH"
+  },
+  {
+    "file": "csv/incidents/authentication_incident.csv",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "csv/performance/performance_incident.csv",
+    "severity": "HIGH"
+  },
+  {
+    "file": "csv/security/security_incident.csv",
+    "severity": "HIGH"
+  },
+  {
+    "file": "csv/mixed/mixed_multi_incident.csv",
+    "severity": "HIGH"
+  },
+  {
+    "file": "csv/mixed/noisy_with_buried_incident.csv",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "xlsx/incidents/database_incident.xlsx",
+    "severity": "HIGH"
+  },
+  {
+    "file": "xlsx/incidents/authentication_incident.xlsx",
+    "severity": "MEDIUM"
+  },
+  {
+    "file": "xlsx/performance/performance_incident.xlsx",
+    "severity": "HIGH"
+  },
+  {
+    "file": "xlsx/security/security_incident.xlsx",
+    "severity": "HIGH"
+  },
+  {
+    "file": "xlsx/mixed/mixed_multi_incident.xlsx",
+    "severity": "HIGH"
+  }
+]

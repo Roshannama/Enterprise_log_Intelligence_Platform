@@ -1,0 +1,161 @@
+timestamp,severity,service,component,request_id,trace_id,status_code,latency_ms,message,user_id
+2026-09-20 08:00:00,INFO,auth-service,auth-service,req-857588,trace-77593200,200,210,User authenticated successfully,user-7872
+2026-09-20 08:00:02,INFO,search-service,search-service,req-357991,trace-11269576,200,182,Query results returned,user-8223
+2026-09-20 08:00:04,INFO,order-service,order-service,req-142662,trace-14305653,200,157,Order created,user-8318
+2026-09-20 08:00:06,INFO,inventory-service,inventory-service,req-745600,trace-39366729,200,108,Inventory released,user-6329
+2026-09-20 08:00:08,INFO,auth-service,auth-service,req-610707,trace-23765877,200,40,Session created,user-4885
+2026-09-20 08:00:10,INFO,monitoring-service,monitoring-service,req-542102,trace-55971944,200,169,Health probe OK,user-9775
+2026-09-20 08:00:12,INFO,database-service,database-service,req-498772,trace-21029531,200,179,Query executed successfully,user-8182
+2026-09-20 08:00:14,INFO,inventory-service,inventory-service,req-504226,trace-16283812,200,224,Inventory released,user-1550
+2026-09-20 08:00:16,INFO,inventory-service,inventory-service,req-186426,trace-36396886,200,127,Inventory released,user-2751
+2026-09-20 08:00:18,INFO,api-gateway,api-gateway,req-167737,trace-72342129,200,205,Rate limit check passed,user-5532
+2026-09-20 08:00:20,INFO,database-service,database-service,req-468292,trace-50811807,200,222,Index scan completed,user-6201
+2026-09-20 08:00:22,INFO,worker-service,worker-service,req-208281,trace-43893299,200,193,Job picked up,user-3651
+2026-09-20 08:00:24,INFO,database-service,database-service,req-526164,trace-28941787,200,115,Index scan completed,user-9329
+2026-09-20 08:00:26,INFO,inventory-service,inventory-service,req-528568,trace-36993644,200,237,Stock level checked,user-2020
+2026-09-20 08:00:28,INFO,worker-service,worker-service,req-534783,trace-30140713,200,75,Worker heartbeat OK,user-8534
+2026-09-20 08:00:30,INFO,order-service,order-service,req-443634,trace-57721815,200,145,Order created,user-4678
+2026-09-20 08:00:32,INFO,payment-service,payment-service,req-552772,trace-38890349,200,188,Payment authorized,user-1130
+2026-09-20 08:00:34,INFO,worker-service,worker-service,req-599606,trace-89029140,200,48,Worker heartbeat OK,user-9555
+2026-09-20 08:00:36,INFO,notification-service,notification-service,req-550659,trace-34157630,200,168,SMS delivered,user-1179
+2026-09-20 08:00:38,INFO,redis-service,redis-service,req-513013,trace-76257889,200,153,Cache warmed,user-1682
+2026-09-20 08:00:40,INFO,monitoring-service,monitoring-service,req-990186,trace-51811040,200,152,Health probe OK,user-1887
+2026-09-20 08:00:42,INFO,order-service,order-service,req-519463,trace-96261669,200,92,Order status updated,user-2327
+2026-09-20 08:00:44,INFO,inventory-service,inventory-service,req-852055,trace-83905604,200,194,Stock level checked,user-6484
+2026-09-20 08:00:46,INFO,auth-service,auth-service,req-377128,trace-99506801,200,56,User authenticated successfully,user-2324
+2026-09-20 08:00:48,INFO,notification-service,notification-service,req-974503,trace-66804861,200,141,SMS delivered,user-8984
+2026-09-20 08:00:50,INFO,notification-service,notification-service,req-765157,trace-23347454,200,170,Push notification sent,user-9321
+2026-09-20 08:00:52,INFO,order-service,order-service,req-515958,trace-81352305,200,112,Order shipped,user-8158
+2026-09-20 08:00:54,INFO,monitoring-service,monitoring-service,req-759327,trace-88002941,200,43,Alert evaluated: no action,user-6496
+2026-09-20 08:00:56,INFO,redis-service,redis-service,req-938724,trace-85078295,200,65,Key expired normally,user-1890
+2026-09-20 08:00:58,INFO,scheduler-service,scheduler-service,req-872460,trace-65055740,200,77,Cron tick processed,user-4995
+2026-09-20 08:01:00,INFO,monitoring-service,monitoring-service,req-735355,trace-75696495,200,227,Health probe OK,user-4180
+2026-09-20 08:01:02,INFO,monitoring-service,monitoring-service,req-543923,trace-83346627,200,45,Metrics scraped,user-1823
+2026-09-20 08:01:04,INFO,database-service,database-service,req-460722,trace-86588857,200,171,Connection acquired from pool,user-8080
+2026-09-20 08:01:06,INFO,payment-service,payment-service,req-236462,trace-53029792,200,221,Payment gateway responded 200,user-7922
+2026-09-20 08:01:08,INFO,redis-service,redis-service,req-385588,trace-99956190,200,64,Cache hit,user-1901
+2026-09-20 08:01:10,INFO,database-service,database-service,req-869716,trace-58330633,200,81,Connection acquired from pool,user-7908
+2026-09-20 08:01:12,INFO,payment-service,payment-service,req-960669,trace-13884059,200,113,Payment gateway responded 200,user-1318
+2026-09-20 08:01:14,INFO,payment-service,payment-service,req-881132,trace-32181743,200,203,Payment gateway responded 200,user-2461
+2026-09-20 08:01:16,INFO,api-gateway,api-gateway,req-214922,trace-18692219,200,237,Incoming request accepted,user-4007
+2026-09-20 08:01:18,INFO,redis-service,redis-service,req-135087,trace-65103083,200,199,Cache warmed,user-3758
+2026-09-20 08:01:20,INFO,database-service,database-service,req-583441,trace-58611002,200,120,Connection acquired from pool,user-8417
+2026-09-20 08:01:22,INFO,redis-service,redis-service,req-118442,trace-22367120,200,66,Key expired normally,user-6333
+2026-09-20 08:01:24,INFO,worker-service,worker-service,req-305375,trace-47590741,200,218,Worker heartbeat OK,user-6001
+2026-09-20 08:01:26,INFO,order-service,order-service,req-851499,trace-79991493,200,235,Order confirmed,user-8896
+2026-09-20 08:01:28,INFO,redis-service,redis-service,req-527153,trace-31721563,200,38,Cache warmed,user-4729
+2026-09-20 08:01:30,INFO,monitoring-service,monitoring-service,req-278563,trace-68156117,200,234,Metrics scraped,user-2265
+2026-09-20 08:01:32,INFO,scheduler-service,scheduler-service,req-169151,trace-34972604,200,96,Cron tick processed,user-2360
+2026-09-20 08:01:34,INFO,user-service,user-service,req-332610,trace-13890645,200,228,Profile cache warmed,user-9106
+2026-09-20 08:01:36,INFO,api-gateway,api-gateway,req-800834,trace-86088032,200,194,Response sent,user-6323
+2026-09-20 08:01:38,INFO,search-service,search-service,req-308227,trace-54385161,200,142,Index refreshed,user-4292
+2026-09-20 08:01:40,INFO,search-service,search-service,req-836849,trace-92665578,200,188,Index refreshed,user-8853
+2026-09-20 08:01:42,INFO,notification-service,notification-service,req-887469,trace-86502064,200,244,Email queued,user-7477
+2026-09-20 08:01:44,INFO,scheduler-service,scheduler-service,req-420312,trace-83633092,200,145,Cron tick processed,user-2980
+2026-09-20 08:01:46,INFO,inventory-service,inventory-service,req-721974,trace-26612825,200,207,Inventory reserved,user-4250
+2026-09-20 08:01:48,INFO,payment-service,payment-service,req-784818,trace-26820152,200,149,Payment gateway responded 200,user-1445
+2026-09-20 08:01:50,INFO,database-service,database-service,req-728030,trace-57882808,200,240,Index scan completed,user-7553
+2026-09-20 08:01:52,INFO,search-service,search-service,req-362149,trace-11798691,200,122,Query results returned,user-7744
+2026-09-20 08:01:54,INFO,api-gateway,api-gateway,req-645940,trace-98662715,200,101,Health check OK,user-3369
+2026-09-20 08:01:56,INFO,search-service,search-service,req-456433,trace-93765043,200,111,Search query executed,user-8918
+2026-09-20 08:01:58,INFO,redis-service,redis-service,req-549822,trace-31735153,200,235,Cache set,user-2356
+2026-09-20 08:02:00,INFO,api-gateway,api-gateway,req-413020,trace-75849212,200,180,TLS handshake completed,user-7557
+2026-09-20 08:02:02,INFO,api-gateway,api-gateway,req-504281,trace-65723653,200,146,Rate limit check passed,user-8739
+2026-09-20 08:02:04,INFO,user-service,user-service,req-978053,trace-55775360,200,155,Profile cache warmed,user-2651
+2026-09-20 08:02:06,INFO,scheduler-service,scheduler-service,req-603795,trace-66151180,200,236,Cron tick processed,user-4087
+2026-09-20 08:02:08,INFO,database-service,database-service,req-752480,trace-22665689,200,54,Transaction committed,user-3120
+2026-09-20 08:02:10,INFO,inventory-service,inventory-service,req-990841,trace-38367800,200,221,Stock level checked,user-6808
+2026-09-20 08:02:12,INFO,monitoring-service,monitoring-service,req-156758,trace-24728208,200,130,Health probe OK,user-9776
+2026-09-20 08:02:14,INFO,payment-service,payment-service,req-101344,trace-36685017,200,36,Payment request received,user-2428
+2026-09-20 08:02:16,INFO,scheduler-service,scheduler-service,req-351504,trace-18215022,200,190,Cron tick processed,user-9085
+2026-09-20 08:02:18,INFO,scheduler-service,scheduler-service,req-632753,trace-86086709,200,171,Scheduled job started,user-7435
+2026-09-20 08:02:20,INFO,api-gateway,api-gateway,req-988910,trace-38699937,200,143,Health check OK,user-8029
+2026-09-20 08:02:22,INFO,order-service,order-service,req-700493,trace-17790808,200,114,Order status updated,user-2173
+2026-09-20 08:02:24,INFO,user-service,user-service,req-276770,trace-58297693,200,206,Profile cache warmed,user-3936
+2026-09-20 08:02:26,INFO,api-gateway,api-gateway,req-568147,trace-30244126,200,229,Request routed successfully,user-6969
+2026-09-20 08:02:28,INFO,api-gateway,api-gateway,req-436069,trace-53992008,200,183,Response sent,user-2199
+2026-09-20 08:02:30,INFO,api-gateway,api-gateway,req-903703,trace-64897586,200,98,Health check OK,user-2931
+2026-09-20 08:02:32,INFO,scheduler-service,scheduler-service,req-529285,trace-27448106,200,90,Cron tick processed,user-4682
+2026-09-20 08:02:34,INFO,worker-service,worker-service,req-849397,trace-94659530,200,181,Job picked up,user-1181
+2026-09-20 08:02:36,INFO,notification-service,notification-service,req-370763,trace-78716087,200,76,Push notification sent,user-9986
+2026-09-20 08:02:38,INFO,search-service,search-service,req-808282,trace-30456573,200,82,Search query executed,user-4462
+2026-09-20 08:02:40,INFO,user-service,user-service,req-753677,trace-92281904,200,62,User preferences updated,user-4189
+2026-09-20 08:02:42,INFO,inventory-service,inventory-service,req-751056,trace-59618431,200,214,Stock level checked,user-4600
+2026-09-20 08:02:44,INFO,monitoring-service,monitoring-service,req-713715,trace-23088628,200,82,Health probe OK,user-3823
+2026-09-20 08:02:46,INFO,auth-service,auth-service,req-908976,trace-20346940,200,82,Logout successful,user-7547
+2026-09-20 08:02:48,INFO,user-service,user-service,req-318704,trace-40320918,200,105,User profile fetched,user-8524
+2026-09-20 08:02:50,INFO,user-service,user-service,req-973140,trace-52521144,200,211,User created,user-6405
+2026-09-20 08:02:52,INFO,scheduler-service,scheduler-service,req-356905,trace-30963607,200,227,Cron tick processed,user-9239
+2026-09-20 08:02:54,INFO,notification-service,notification-service,req-725220,trace-26396642,200,176,Email queued,user-5048
+2026-09-20 08:02:56,INFO,order-service,order-service,req-644670,trace-61194604,200,89,Order shipped,user-4204
+2026-09-20 08:02:58,INFO,worker-service,worker-service,req-671661,trace-39197093,200,173,Worker heartbeat OK,user-1426
+2026-09-20 08:03:00,INFO,auth-service,auth-service,req-737799,trace-18923392,200,69,Token issued,user-2822
+2026-09-20 08:03:02,INFO,redis-service,redis-service,req-730957,trace-16520007,200,131,Key expired normally,user-7123
+2026-09-20 08:03:04,INFO,search-service,search-service,req-829828,trace-90236338,200,87,Search query executed,user-9155
+2026-09-20 08:03:06,INFO,payment-service,payment-service,req-941985,trace-59032490,200,115,Payment captured,user-1680
+2026-09-20 08:03:08,INFO,search-service,search-service,req-838393,trace-73327240,200,68,Index refreshed,user-1846
+2026-09-20 08:03:10,INFO,payment-service,payment-service,req-295761,trace-56675548,200,89,Payment request received,user-9172
+2026-09-20 08:03:12,INFO,monitoring-service,monitoring-service,req-962829,trace-15562324,200,50,Metrics scraped,user-4898
+2026-09-20 08:03:14,INFO,monitoring-service,monitoring-service,req-112546,trace-16377927,200,184,Alert evaluated: no action,user-6223
+2026-09-20 08:03:16,INFO,search-service,search-service,req-400499,trace-12860855,200,183,Index refreshed,user-8271
+2026-09-20 08:03:18,INFO,monitoring-service,monitoring-service,req-245194,trace-79621614,200,234,Health probe OK,user-5128
+2026-09-20 08:03:20,INFO,notification-service,notification-service,req-386910,trace-53609310,200,156,Push notification sent,user-2530
+2026-09-20 08:03:22,INFO,inventory-service,inventory-service,req-310882,trace-81593124,200,90,Stock level checked,user-2155
+2026-09-20 08:03:24,INFO,monitoring-service,monitoring-service,req-863752,trace-32591575,200,196,Metrics scraped,user-2590
+2026-09-20 08:03:26,INFO,notification-service,notification-service,req-220274,trace-13393590,200,143,Email queued,user-6413
+2026-09-20 08:03:28,INFO,api-gateway,api-gateway,req-538998,trace-38627464,200,73,Incoming request accepted,user-6327
+2026-09-20 08:03:30,INFO,database-service,database-service,req-183501,trace-22349453,200,145,Index scan completed,user-6816
+2026-09-20 08:03:32,INFO,api-gateway,api-gateway,req-361462,trace-40128799,200,141,Health check OK,user-8811
+2026-09-20 08:03:34,INFO,scheduler-service,scheduler-service,req-129125,trace-42770382,200,58,Scheduled job completed,user-3689
+2026-09-20 08:03:36,INFO,monitoring-service,monitoring-service,req-967504,trace-76030959,200,188,Alert evaluated: no action,user-1724
+2026-09-20 08:03:38,INFO,redis-service,redis-service,req-184182,trace-28311883,200,227,Cache warmed,user-4721
+2026-09-20 08:03:40,INFO,database-service,database-service,req-794378,trace-69767963,200,234,Index scan completed,user-7948
+2026-09-20 08:03:42,INFO,redis-service,redis-service,req-314738,trace-16452281,200,55,Key expired normally,user-7804
+2026-09-20 08:03:44,INFO,notification-service,notification-service,req-375656,trace-86701244,200,30,Push notification sent,user-2201
+2026-09-20 08:03:46,INFO,redis-service,redis-service,req-879301,trace-72866403,200,89,Cache warmed,user-3488
+2026-09-20 08:03:48,INFO,payment-service,payment-service,req-192135,trace-74432485,200,179,Payment request received,user-6638
+2026-09-20 08:03:50,INFO,api-gateway,api-gateway,req-469253,trace-59739168,200,209,Response sent,user-7724
+2026-09-20 08:03:52,INFO,user-service,user-service,req-500785,trace-10638061,200,123,Profile cache warmed,user-5479
+2026-09-20 08:03:54,INFO,payment-service,payment-service,req-881999,trace-82409702,200,125,Refund processed successfully,user-8257
+2026-09-20 08:03:56,INFO,notification-service,notification-service,req-684146,trace-59627799,200,106,Push notification sent,user-8368
+2026-09-20 08:03:58,INFO,payment-service,payment-service,req-808856,trace-94658585,200,215,Payment authorized,user-1064
+2026-09-20 08:04:00,INFO,inventory-service,inventory-service,req-823076,trace-37597980,200,170,Inventory reserved,user-5416
+2026-09-20 08:04:02,INFO,auth-service,auth-service,req-125764,trace-14722737,200,197,Token issued,user-3566
+2026-09-20 08:04:04,INFO,search-service,search-service,req-889069,trace-39374116,200,154,Search query executed,user-3075
+2026-09-20 08:04:06,INFO,user-service,user-service,req-118198,trace-16733882,200,213,User preferences updated,user-7598
+2026-09-20 08:04:08,INFO,notification-service,notification-service,req-369599,trace-23036063,200,92,SMS delivered,user-4488
+2026-09-20 08:04:10,INFO,payment-service,payment-service,req-576158,trace-60450254,200,164,Payment captured,user-7543
+2026-09-20 08:04:12,INFO,database-service,database-service,req-306127,trace-11445477,200,218,Connection acquired from pool,user-9814
+2026-09-20 08:04:14,INFO,scheduler-service,scheduler-service,req-157899,trace-70810065,200,36,Cron tick processed,user-6916
+2026-09-20 08:04:16,INFO,payment-service,payment-service,req-300199,trace-15935622,200,225,Payment gateway responded 200,user-6128
+2026-09-20 08:04:18,INFO,redis-service,redis-service,req-849161,trace-77201425,200,118,Cache hit,user-9501
+2026-09-20 08:04:20,INFO,order-service,order-service,req-502988,trace-93707348,200,238,Order created,user-5068
+2026-09-20 08:04:22,INFO,notification-service,notification-service,req-189145,trace-84114275,200,172,Email queued,user-3584
+2026-09-20 08:04:24,INFO,user-service,user-service,req-642284,trace-42789644,200,249,User created,user-7627
+2026-09-20 08:04:26,INFO,scheduler-service,scheduler-service,req-265347,trace-39668396,200,144,Cron tick processed,user-7152
+2026-09-20 08:04:28,INFO,order-service,order-service,req-566934,trace-12261814,200,29,Order confirmed,user-8336
+2026-09-20 08:04:30,INFO,order-service,order-service,req-167952,trace-90779322,200,230,Order confirmed,user-2193
+2026-09-20 08:04:32,INFO,worker-service,worker-service,req-502214,trace-38870362,200,241,Job completed successfully,user-2993
+2026-09-20 08:04:34,INFO,api-gateway,api-gateway,req-384075,trace-74972992,200,223,Request routed successfully,user-6188
+2026-09-20 08:04:36,INFO,api-gateway,api-gateway,req-545772,trace-96725885,200,55,Response sent,user-7826
+2026-09-20 08:04:38,INFO,notification-service,notification-service,req-910903,trace-15293353,200,164,Email queued,user-2962
+2026-09-20 08:04:40,INFO,monitoring-service,monitoring-service,req-906489,trace-39596942,200,97,Health probe OK,user-2422
+2026-09-20 08:04:42,INFO,api-gateway,api-gateway,req-165400,trace-50453225,200,170,Response sent,user-7987
+2026-09-20 08:04:44,INFO,scheduler-service,scheduler-service,req-274029,trace-88528470,200,80,Cron tick processed,user-6226
+2026-09-20 08:04:46,INFO,api-gateway,api-gateway,req-573945,trace-82642719,200,102,Response sent,user-5040
+2026-09-20 08:04:48,INFO,search-service,search-service,req-300608,trace-15564223,200,224,Index refreshed,user-7321
+2026-09-20 08:04:50,INFO,monitoring-service,monitoring-service,req-508718,trace-28042559,200,52,Health probe OK,user-1000
+2026-09-20 08:04:52,INFO,payment-service,payment-service,req-105006,trace-20938796,200,25,Payment captured,user-2325
+2026-09-20 08:04:54,INFO,order-service,order-service,req-720636,trace-82087120,200,214,Order created,user-7806
+2026-09-20 08:04:56,INFO,scheduler-service,scheduler-service,req-284100,trace-38543829,200,53,Cron tick processed,user-9291
+2026-09-20 08:04:58,INFO,search-service,search-service,req-313726,trace-86958061,200,57,Index refreshed,user-2262
+2026-09-20 08:05:00,INFO,scheduler-service,scheduler-service,req-788314,trace-16894858,200,49,Cron tick processed,user-6215
+2026-09-20 08:05:02,INFO,worker-service,worker-service,req-359826,trace-31331196,200,164,Worker heartbeat OK,user-2373
+2026-09-20 08:05:04,INFO,monitoring-service,monitoring-service,req-409417,trace-22703238,200,133,Metrics scraped,user-3088
+2026-09-20 08:05:06,INFO,order-service,order-service,req-631163,trace-72333039,200,92,Order confirmed,user-9890
+2026-09-20 08:05:08,INFO,user-service,user-service,req-152399,trace-53583586,200,130,User preferences updated,user-8943
+2026-09-20 08:05:10,INFO,redis-service,redis-service,req-598775,trace-28637855,200,70,Cache hit,user-1025
+2026-09-20 08:05:12,INFO,api-gateway,api-gateway,req-935250,trace-48134687,200,152,Response sent,user-8738
+2026-09-20 08:05:14,INFO,inventory-service,inventory-service,req-308859,trace-33971873,200,220,Inventory reserved,user-9340
+2026-09-20 08:05:16,INFO,inventory-service,inventory-service,req-520664,trace-80577705,200,28,Stock level checked,user-3725
+2026-09-20 08:05:18,INFO,api-gateway,api-gateway,req-544771,trace-52767005,200,217,Request routed successfully,user-8310

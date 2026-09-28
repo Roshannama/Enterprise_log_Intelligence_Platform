@@ -1,0 +1,121 @@
+timestamp,severity,service,component,request_id,trace_id,status_code,latency_ms,message,user_id
+2026-09-20 08:00:00,ERROR,order-service,order-service,req-784360,trace-52170775,504,8052,Request timed out,user-1153
+2026-09-20 08:00:02,INFO,worker-service,worker-service,req-400912,trace-98880569,200,198,Request completed,user-7218
+2026-09-20 08:00:04,INFO,api-gateway,api-gateway,req-377595,trace-84884111,200,198,Request completed,user-6122
+2026-09-20 08:00:06,INFO,search-service,search-service,req-828945,trace-24601609,200,105,Request completed,user-8063
+2026-09-20 08:00:08,ERROR,auth-service,auth-service,req-649093,trace-97778991,504,5521,Request timed out,user-2529
+2026-09-20 08:00:10,INFO,scheduler-service,scheduler-service,req-499498,trace-91486633,200,188,Request completed,user-4541
+2026-09-20 08:00:12,INFO,order-service,order-service,req-189666,trace-72786206,200,54,Request completed,user-3305
+2026-09-20 08:00:14,INFO,api-gateway,api-gateway,req-434633,trace-75381901,200,127,Request completed,user-3193
+2026-09-20 08:00:16,ERROR,redis-service,redis-service,req-217392,trace-31485405,504,7575,Request timed out,user-4312
+2026-09-20 08:00:18,INFO,redis-service,redis-service,req-792482,trace-52625420,200,85,Request completed,user-2644
+2026-09-20 08:00:20,INFO,order-service,order-service,req-517324,trace-42353931,200,240,Request completed,user-3868
+2026-09-20 08:00:22,INFO,auth-service,auth-service,req-138177,trace-11429885,200,83,Request completed,user-8851
+2026-09-20 08:00:24,ERROR,user-service,user-service,req-534202,trace-94110327,504,6301,Request timed out,user-3084
+2026-09-20 08:00:26,INFO,inventory-service,inventory-service,req-684365,trace-97070424,200,285,Request completed,user-3258
+2026-09-20 08:00:28,INFO,redis-service,redis-service,req-532982,trace-34385928,200,285,Request completed,user-2104
+2026-09-20 08:00:30,INFO,user-service,user-service,req-218490,trace-96286724,200,115,Request completed,user-1987
+2026-09-20 08:00:32,ERROR,worker-service,worker-service,req-245487,trace-29507772,504,9299,Request timed out,user-8588
+2026-09-20 08:00:34,INFO,order-service,order-service,req-284407,trace-44954733,200,272,Request completed,user-5345
+2026-09-20 08:00:36,INFO,order-service,order-service,req-908783,trace-84463344,200,75,Request completed,user-8154
+2026-09-20 08:00:38,INFO,search-service,search-service,req-820483,trace-89906475,200,266,Request completed,user-8356
+2026-09-20 08:00:40,ERROR,database-service,database-service,req-247818,trace-10232590,504,7632,Request timed out,user-4472
+2026-09-20 08:00:42,INFO,payment-service,payment-service,req-686891,trace-10746406,200,106,Request completed,user-7643
+2026-09-20 08:00:44,INFO,monitoring-service,monitoring-service,req-184228,trace-19454684,200,260,Request completed,user-5404
+2026-09-20 08:00:46,INFO,user-service,user-service,req-608947,trace-42592725,200,63,Request completed,user-3700
+2026-09-20 08:00:48,ERROR,auth-service,auth-service,req-746723,trace-29486872,504,8000,Request timed out,user-7085
+2026-09-20 08:00:50,INFO,user-service,user-service,req-334766,trace-85245176,200,107,Request completed,user-7656
+2026-09-20 08:00:52,INFO,auth-service,auth-service,req-377432,trace-12319927,200,263,Request completed,user-4510
+2026-09-20 08:00:54,INFO,worker-service,worker-service,req-833658,trace-36175553,200,75,Request completed,user-7421
+2026-09-20 08:00:56,ERROR,auth-service,auth-service,req-485317,trace-36576070,504,5898,Request timed out,user-4563
+2026-09-20 08:00:58,INFO,api-gateway,api-gateway,req-673483,trace-35604421,200,257,Request completed,user-4979
+2026-09-20 08:01:00,INFO,order-service,order-service,req-510461,trace-91802959,200,188,Request completed,user-5257
+2026-09-20 08:01:02,INFO,monitoring-service,monitoring-service,req-617781,trace-83070289,200,130,Request completed,user-9089
+2026-09-20 08:01:04,ERROR,database-service,database-service,req-483587,trace-26291510,504,9028,Request timed out,user-2746
+2026-09-20 08:01:06,INFO,auth-service,auth-service,req-103178,trace-43747939,200,253,Request completed,user-9920
+2026-09-20 08:01:08,INFO,monitoring-service,monitoring-service,req-398277,trace-17697616,200,206,Request completed,user-5815
+2026-09-20 08:01:10,INFO,payment-service,payment-service,req-302564,trace-95866052,200,175,Request completed,user-5616
+2026-09-20 08:01:12,ERROR,redis-service,redis-service,req-193667,trace-89303133,504,6624,Request timed out,user-4199
+2026-09-20 08:01:14,INFO,auth-service,auth-service,req-155064,trace-55268841,200,216,Request completed,user-8027
+2026-09-20 08:01:16,INFO,scheduler-service,scheduler-service,req-676228,trace-86766099,200,139,Request completed,user-3995
+2026-09-20 08:01:18,INFO,monitoring-service,monitoring-service,req-351419,trace-47001638,200,128,Request completed,user-8632
+2026-09-20 08:01:20,ERROR,scheduler-service,scheduler-service,req-521316,trace-70328349,504,5444,Request timed out,user-6694
+2026-09-20 08:01:22,INFO,api-gateway,api-gateway,req-150821,trace-47256724,200,166,Request completed,user-1907
+2026-09-20 08:01:24,INFO,order-service,order-service,req-987959,trace-85096382,200,87,Request completed,user-6974
+2026-09-20 08:01:26,INFO,user-service,user-service,req-210446,trace-13742124,200,141,Request completed,user-6907
+2026-09-20 08:01:28,ERROR,database-service,database-service,req-789443,trace-52608601,504,7941,Request timed out,user-6431
+2026-09-20 08:01:30,INFO,database-service,database-service,req-584876,trace-56004715,200,110,Request completed,user-7589
+2026-09-20 08:01:32,INFO,auth-service,auth-service,req-244879,trace-35207976,200,105,Request completed,user-4472
+2026-09-20 08:01:34,INFO,inventory-service,inventory-service,req-377441,trace-45860919,200,258,Request completed,user-3212
+2026-09-20 08:01:36,ERROR,monitoring-service,monitoring-service,req-807726,trace-69066856,504,7792,Request timed out,user-3194
+2026-09-20 08:01:38,INFO,redis-service,redis-service,req-843157,trace-22229296,200,287,Request completed,user-2179
+2026-09-20 08:01:40,INFO,search-service,search-service,req-558470,trace-18583190,200,156,Request completed,user-1425
+2026-09-20 08:01:42,INFO,api-gateway,api-gateway,req-498875,trace-13034885,200,244,Request completed,user-1092
+2026-09-20 08:01:44,ERROR,notification-service,notification-service,req-945920,trace-34851257,504,6037,Request timed out,user-1756
+2026-09-20 08:01:46,INFO,scheduler-service,scheduler-service,req-607458,trace-73866097,200,152,Request completed,user-3303
+2026-09-20 08:01:48,INFO,auth-service,auth-service,req-943149,trace-56859366,200,201,Request completed,user-2435
+2026-09-20 08:01:50,INFO,scheduler-service,scheduler-service,req-186297,trace-30512589,200,235,Request completed,user-2555
+2026-09-20 08:01:52,ERROR,inventory-service,inventory-service,req-453943,trace-95352439,504,6915,Request timed out,user-1662
+2026-09-20 08:01:54,INFO,worker-service,worker-service,req-119100,trace-29516729,200,237,Request completed,user-2366
+2026-09-20 08:01:56,INFO,auth-service,auth-service,req-539988,trace-94872705,200,275,Request completed,user-5316
+2026-09-20 08:01:58,INFO,payment-service,payment-service,req-494716,trace-38535890,200,282,Request completed,user-7961
+2026-09-20 08:02:00,ERROR,redis-service,redis-service,req-461808,trace-25103667,504,9124,Request timed out,user-9538
+2026-09-20 08:02:02,INFO,worker-service,worker-service,req-250830,trace-18769124,200,285,Request completed,user-3656
+2026-09-20 08:02:04,INFO,api-gateway,api-gateway,req-117809,trace-15904533,200,171,Request completed,user-8912
+2026-09-20 08:02:06,INFO,worker-service,worker-service,req-635944,trace-40881644,200,179,Request completed,user-4277
+2026-09-20 08:02:08,ERROR,search-service,search-service,req-977034,trace-86235749,504,7996,Request timed out,user-6579
+2026-09-20 08:02:10,INFO,api-gateway,api-gateway,req-999264,trace-19759428,200,264,Request completed,user-2968
+2026-09-20 08:02:12,INFO,inventory-service,inventory-service,req-821791,trace-27597080,200,231,Request completed,user-3899
+2026-09-20 08:02:14,INFO,order-service,order-service,req-343969,trace-54351829,200,210,Request completed,user-1012
+2026-09-20 08:02:16,ERROR,api-gateway,api-gateway,req-850912,trace-54764168,504,8928,Request timed out,user-4032
+2026-09-20 08:02:18,INFO,scheduler-service,scheduler-service,req-720459,trace-97088869,200,126,Request completed,user-1908
+2026-09-20 08:02:20,INFO,monitoring-service,monitoring-service,req-164387,trace-98684567,200,238,Request completed,user-1746
+2026-09-20 08:02:22,INFO,search-service,search-service,req-830734,trace-68058855,200,219,Request completed,user-9482
+2026-09-20 08:02:24,ERROR,api-gateway,api-gateway,req-765139,trace-21794868,504,6012,Request timed out,user-8524
+2026-09-20 08:02:26,INFO,worker-service,worker-service,req-510628,trace-62079728,200,161,Request completed,user-2836
+2026-09-20 08:02:28,INFO,worker-service,worker-service,req-271819,trace-59520125,200,168,Request completed,user-6110
+2026-09-20 08:02:30,INFO,payment-service,payment-service,req-341031,trace-40530295,200,153,Request completed,user-2973
+2026-09-20 08:02:32,ERROR,notification-service,notification-service,req-475113,trace-20139199,504,7259,Request timed out,user-6529
+2026-09-20 08:02:34,INFO,auth-service,auth-service,req-691076,trace-77553930,200,198,Request completed,user-3527
+2026-09-20 08:02:36,INFO,payment-service,payment-service,req-608080,trace-20117227,200,195,Request completed,user-3225
+2026-09-20 08:02:38,INFO,payment-service,payment-service,req-146182,trace-15689056,200,167,Request completed,user-7067
+2026-09-20 08:02:40,ERROR,scheduler-service,scheduler-service,req-205190,trace-42978547,504,7846,Request timed out,user-7952
+2026-09-20 08:02:42,INFO,database-service,database-service,req-816640,trace-73622115,200,86,Request completed,user-4265
+2026-09-20 08:02:44,INFO,redis-service,redis-service,req-118543,trace-39339469,200,188,Request completed,user-5893
+2026-09-20 08:02:46,INFO,inventory-service,inventory-service,req-713745,trace-47948483,200,216,Request completed,user-5777
+2026-09-20 08:02:48,ERROR,scheduler-service,scheduler-service,req-205906,trace-48261903,504,5499,Request timed out,user-2426
+2026-09-20 08:02:50,INFO,inventory-service,inventory-service,req-799780,trace-11820701,200,50,Request completed,user-1099
+2026-09-20 08:02:52,INFO,search-service,search-service,req-723202,trace-31645512,200,53,Request completed,user-7092
+2026-09-20 08:02:54,INFO,notification-service,notification-service,req-418342,trace-74389653,200,250,Request completed,user-5674
+2026-09-20 08:02:56,ERROR,user-service,user-service,req-348518,trace-70720990,504,5261,Request timed out,user-1630
+2026-09-20 08:02:58,INFO,worker-service,worker-service,req-432992,trace-18811935,200,195,Request completed,user-2873
+2026-09-20 08:03:00,INFO,auth-service,auth-service,req-340048,trace-83276121,200,116,Request completed,user-7502
+2026-09-20 08:03:02,INFO,monitoring-service,monitoring-service,req-279787,trace-14170297,200,250,Request completed,user-2533
+2026-09-20 08:03:04,ERROR,worker-service,worker-service,req-935516,trace-91971069,504,5787,Request timed out,user-6675
+2026-09-20 08:03:06,INFO,notification-service,notification-service,req-509631,trace-76953509,200,182,Request completed,user-9565
+2026-09-20 08:03:08,INFO,redis-service,redis-service,req-302782,trace-61676798,200,285,Request completed,user-6820
+2026-09-20 08:03:10,INFO,scheduler-service,scheduler-service,req-321282,trace-40089424,200,279,Request completed,user-1242
+2026-09-20 08:03:12,ERROR,search-service,search-service,req-874685,trace-95069142,504,6828,Request timed out,user-9340
+2026-09-20 08:03:14,INFO,scheduler-service,scheduler-service,req-139168,trace-72404275,200,225,Request completed,user-2711
+2026-09-20 08:03:16,INFO,redis-service,redis-service,req-734981,trace-96953197,200,207,Request completed,user-8861
+2026-09-20 08:03:18,INFO,inventory-service,inventory-service,req-828604,trace-91532737,200,243,Request completed,user-8623
+2026-09-20 08:03:20,ERROR,worker-service,worker-service,req-704510,trace-92012820,504,6124,Request timed out,user-2102
+2026-09-20 08:03:22,INFO,auth-service,auth-service,req-431896,trace-51312882,200,280,Request completed,user-8958
+2026-09-20 08:03:24,INFO,user-service,user-service,req-354088,trace-48535805,200,97,Request completed,user-8301
+2026-09-20 08:03:26,INFO,payment-service,payment-service,req-724002,trace-78874757,200,209,Request completed,user-6745
+2026-09-20 08:03:28,ERROR,user-service,user-service,req-799055,trace-96770573,504,6265,Request timed out,user-4437
+2026-09-20 08:03:30,INFO,redis-service,redis-service,req-456974,trace-24272911,200,101,Request completed,user-2675
+2026-09-20 08:03:32,INFO,inventory-service,inventory-service,req-495718,trace-17502923,200,78,Request completed,user-7642
+2026-09-20 08:03:34,INFO,api-gateway,api-gateway,req-838923,trace-81257460,200,77,Request completed,user-7263
+2026-09-20 08:03:36,ERROR,worker-service,worker-service,req-380994,trace-32211724,504,8044,Request timed out,user-8729
+2026-09-20 08:03:38,INFO,order-service,order-service,req-365778,trace-36925049,200,270,Request completed,user-2478
+2026-09-20 08:03:40,INFO,api-gateway,api-gateway,req-265880,trace-75027181,200,228,Request completed,user-6051
+2026-09-20 08:03:42,INFO,redis-service,redis-service,req-564524,trace-52649810,200,270,Request completed,user-3020
+2026-09-20 08:03:44,ERROR,inventory-service,inventory-service,req-318080,trace-86627954,504,5932,Request timed out,user-5542
+2026-09-20 08:03:46,INFO,search-service,search-service,req-507148,trace-53159008,200,245,Request completed,user-1644
+2026-09-20 08:03:48,INFO,monitoring-service,monitoring-service,req-569820,trace-21161496,200,236,Request completed,user-8007
+2026-09-20 08:03:50,INFO,user-service,user-service,req-884914,trace-79348182,200,144,Request completed,user-2560
+2026-09-20 08:03:52,ERROR,payment-service,payment-service,req-564716,trace-30807236,504,9322,Request timed out,user-1127
+2026-09-20 08:03:54,INFO,user-service,user-service,req-698202,trace-21448554,200,177,Request completed,user-8944
+2026-09-20 08:03:56,INFO,user-service,user-service,req-389876,trace-79952557,200,253,Request completed,user-8504
+2026-09-20 08:03:58,INFO,notification-service,notification-service,req-780033,trace-73910743,200,165,Request completed,user-6915

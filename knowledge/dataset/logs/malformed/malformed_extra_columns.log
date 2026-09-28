@@ -1,0 +1,1 @@
+2026-09-20 08:00:00 INFO api-gateway Request handled extra_field1=foo extra_field2=bar unexpected_column=baz

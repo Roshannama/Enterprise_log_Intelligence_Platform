@@ -1,0 +1,11 @@
+2026-09-20 08:00:00 INFO payment-service Payment authorized
+2026-09-20 08:00:02 INFO scheduler-service Scheduled job completed
+2026-09-20 08:00:04 INFO redis-service Cache warmed
+2026-09-20 08:00:06 INFO search-service Search query executed
+2026-09-20 08:00:08 INFO user-service User created
+2026-09-20 08:00:11 WARNING database-service Query time slightly above baseline (450ms)
+2026-09-20 08:00:10 INFO user-service User profile fetched
+2026-09-20 08:00:12 INFO scheduler-service Scheduled job started
+2026-09-20 08:00:14 INFO worker-service Job completed successfully
+2026-09-20 08:00:16 INFO redis-service Key expired normally
+2026-09-20 08:00:18 INFO monitoring-service Health probe OK

@@ -1,0 +1,5 @@
+2026-09-20 08:00:00 ERROR worker-service Unhandled exception in job runner
+Traceback (most recent call last):
+  File "worker/runner.py", line 60, in run_job
+    raise RuntimeError('Job configuration missing required field: retry_policy')
+RuntimeError: Job configuration missing required field: retry_policy

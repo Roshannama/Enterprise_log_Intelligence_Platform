@@ -1,0 +1,7 @@
+2026-09-26 10:30:01 INFO PaymentService Payment request received
+2026-09-26 10:30:02 INFO PaymentService Processing payment
+2026-09-26 10:30:03 ERROR PaymentService Database connection failed
+2026-09-26 10:30:04 ERROR PaymentService Database connection failed
+2026-09-26 10:30:05 ERROR PaymentService Database connection failed
+2026-09-26 10:30:06 WARNING PaymentService Connection retry initiated
+2026-09-26 10:30:07 INFO PaymentService Payment request completed

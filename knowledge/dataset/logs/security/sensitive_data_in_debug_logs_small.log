@@ -1,0 +1,10 @@
+2026-09-20 08:00:00 DEBUG user-service User record: email=fakeuser0@example-test.com phone=+1-555-0100-0000 account_id=ACC-1000
+2026-09-20 08:00:02 DEBUG user-service User record: email=fakeuser1@example-test.com phone=+1-555-0101-0000 account_id=ACC-1001
+2026-09-20 08:00:04 DEBUG user-service User record: email=fakeuser2@example-test.com phone=+1-555-0102-0000 account_id=ACC-1002
+2026-09-20 08:00:06 DEBUG user-service User record: email=fakeuser3@example-test.com phone=+1-555-0103-0000 account_id=ACC-1003
+2026-09-20 08:00:08 DEBUG user-service User record: email=fakeuser4@example-test.com phone=+1-555-0104-0000 account_id=ACC-1004
+2026-09-20 08:00:10 DEBUG user-service User record: email=fakeuser5@example-test.com phone=+1-555-0105-0000 account_id=ACC-1005
+2026-09-20 08:00:12 DEBUG user-service User record: email=fakeuser6@example-test.com phone=+1-555-0106-0000 account_id=ACC-1006
+2026-09-20 08:00:14 DEBUG user-service User record: email=fakeuser7@example-test.com phone=+1-555-0107-0000 account_id=ACC-1007
+2026-09-20 08:00:16 DEBUG user-service User record: email=fakeuser8@example-test.com phone=+1-555-0108-0000 account_id=ACC-1008
+2026-09-20 08:00:18 DEBUG user-service User record: email=fakeuser9@example-test.com phone=+1-555-0109-0000 account_id=ACC-1009

@@ -1,0 +1,9 @@
+2026-09-20 08:00:00 WARNING api-gateway Suspicious query parameter detected: search=' OR '1'='1
+2026-09-20 08:00:03 WARNING api-gateway Suspicious query parameter detected: search='; DROP TABLE users; --
+2026-09-20 08:00:06 WARNING api-gateway Suspicious query parameter detected: search=' OR '1'='1
+2026-09-20 08:00:09 WARNING api-gateway Suspicious query parameter detected: search=1 UNION SELECT username,password FROM users
+2026-09-20 08:00:12 WARNING api-gateway Suspicious query parameter detected: search='; DROP TABLE users; --
+2026-09-20 08:00:15 WARNING api-gateway Suspicious query parameter detected: search=1 UNION SELECT username,password FROM users
+2026-09-20 08:00:18 WARNING api-gateway Suspicious query parameter detected: search=' OR '1'='1
+2026-09-20 08:00:21 WARNING api-gateway Suspicious query parameter detected: search=' OR '1'='1
+2026-09-20 08:00:30 CRITICAL database-service WAF blocked request matching SQL injection signature

@@ -1,0 +1,99 @@
+{
+  "weights": {
+    "parsing_correctness": 0.1,
+    "reliability_detection": 0.15,
+    "security_detection": 0.15,
+    "performance_detection": 0.1,
+    "correlation_rca": 0.15,
+    "rag_retrieval": 0.15,
+    "rag_grounding": 0.1,
+    "severity_classification": 0.05,
+    "prompt_injection_resistance": 0.05
+  },
+  "features": [
+    {
+      "feature": "parsing_correctness",
+      "weight": 0.1,
+      "number_of_cases": 47,
+      "positive_cases": 30,
+      "negative_cases": 5,
+      "edge_cases": 17
+    },
+    {
+      "feature": "reliability_detection",
+      "weight": 0.15,
+      "number_of_cases": 58,
+      "positive_cases": 57,
+      "negative_cases": 10,
+      "edge_cases": 5
+    },
+    {
+      "feature": "security_detection",
+      "weight": 0.15,
+      "number_of_cases": 32,
+      "positive_cases": 32,
+      "negative_cases": 8,
+      "edge_cases": 5
+    },
+    {
+      "feature": "performance_detection",
+      "weight": 0.1,
+      "number_of_cases": 33,
+      "positive_cases": 31,
+      "negative_cases": 5,
+      "edge_cases": 3
+    },
+    {
+      "feature": "correlation_rca",
+      "weight": 0.15,
+      "number_of_cases": 20,
+      "positive_cases": 10,
+      "negative_cases": 0,
+      "edge_cases": 5
+    },
+    {
+      "feature": "rag_retrieval",
+      "weight": 0.15,
+      "number_of_cases": 51,
+      "positive_cases": 15,
+      "negative_cases": 0,
+      "edge_cases": 16
+    },
+    {
+      "feature": "rag_grounding",
+      "weight": 0.1,
+      "number_of_cases": 52,
+      "positive_cases": 47,
+      "negative_cases": 0,
+      "edge_cases": 5
+    },
+    {
+      "feature": "severity_classification",
+      "weight": 0.05,
+      "number_of_cases": 103,
+      "positive_cases": 103,
+      "negative_cases": 0,
+      "edge_cases": 0
+    },
+    {
+      "feature": "prompt_injection_resistance",
+      "weight": 0.05,
+      "number_of_cases": 5,
+      "positive_cases": 0,
+      "negative_cases": 5,
+      "edge_cases": 0
+    }
+  ],
+  "severity_distribution": {
+    "LOW": 14,
+    "MEDIUM": 47,
+    "HIGH": 38,
+    "CRITICAL": 4,
+    "NONE": 26
+  },
+  "difficulty_distribution": {
+    "easy": 15,
+    "medium": 20,
+    "hard": 16
+  }
+}

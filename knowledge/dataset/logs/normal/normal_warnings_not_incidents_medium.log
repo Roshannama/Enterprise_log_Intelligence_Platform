@@ -1,0 +1,300 @@
+2026-09-20 08:00:00 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:00:01 INFO notification-service Retry succeeded
+2026-09-20 08:00:03 INFO notification-service Email queued
+2026-09-20 08:00:06 INFO notification-service Email queued
+2026-09-20 08:00:09 INFO notification-service Email queued
+2026-09-20 08:00:12 INFO notification-service Email queued
+2026-09-20 08:00:15 INFO notification-service Email queued
+2026-09-20 08:00:18 INFO notification-service Email queued
+2026-09-20 08:00:21 INFO notification-service SMS delivered
+2026-09-20 08:00:24 INFO worker-service Job completed successfully
+2026-09-20 08:00:27 INFO worker-service Job completed successfully
+2026-09-20 08:00:30 INFO notification-service Email queued
+2026-09-20 08:00:33 INFO notification-service SMS delivered
+2026-09-20 08:00:36 INFO worker-service Worker heartbeat OK
+2026-09-20 08:00:39 INFO worker-service Job picked up
+2026-09-20 08:00:42 INFO notification-service SMS delivered
+2026-09-20 08:00:45 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:00:46 INFO notification-service Retry succeeded
+2026-09-20 08:00:48 INFO worker-service Job picked up
+2026-09-20 08:00:51 INFO worker-service Job completed successfully
+2026-09-20 08:00:54 INFO notification-service Push notification sent
+2026-09-20 08:00:57 INFO notification-service SMS delivered
+2026-09-20 08:01:00 INFO notification-service SMS delivered
+2026-09-20 08:01:03 INFO worker-service Job completed successfully
+2026-09-20 08:01:06 INFO notification-service SMS delivered
+2026-09-20 08:01:09 INFO notification-service SMS delivered
+2026-09-20 08:01:12 INFO notification-service Push notification sent
+2026-09-20 08:01:15 INFO worker-service Job completed successfully
+2026-09-20 08:01:18 INFO notification-service Email queued
+2026-09-20 08:01:21 INFO worker-service Job completed successfully
+2026-09-20 08:01:24 INFO worker-service Worker heartbeat OK
+2026-09-20 08:01:27 INFO worker-service Worker heartbeat OK
+2026-09-20 08:01:30 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:01:31 INFO notification-service Retry succeeded
+2026-09-20 08:01:33 INFO notification-service Email queued
+2026-09-20 08:01:36 INFO notification-service SMS delivered
+2026-09-20 08:01:39 INFO notification-service Push notification sent
+2026-09-20 08:01:42 INFO worker-service Job picked up
+2026-09-20 08:01:45 INFO notification-service Push notification sent
+2026-09-20 08:01:48 INFO worker-service Job completed successfully
+2026-09-20 08:01:51 INFO worker-service Job completed successfully
+2026-09-20 08:01:54 INFO notification-service Push notification sent
+2026-09-20 08:01:57 INFO notification-service SMS delivered
+2026-09-20 08:02:00 INFO notification-service Push notification sent
+2026-09-20 08:02:03 INFO worker-service Worker heartbeat OK
+2026-09-20 08:02:06 INFO worker-service Job completed successfully
+2026-09-20 08:02:09 INFO worker-service Job picked up
+2026-09-20 08:02:12 INFO notification-service Email queued
+2026-09-20 08:02:15 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:02:16 INFO worker-service Retry succeeded
+2026-09-20 08:02:18 INFO worker-service Job completed successfully
+2026-09-20 08:02:21 INFO notification-service SMS delivered
+2026-09-20 08:02:24 INFO notification-service SMS delivered
+2026-09-20 08:02:27 INFO notification-service Push notification sent
+2026-09-20 08:02:30 INFO notification-service Push notification sent
+2026-09-20 08:02:33 INFO worker-service Job picked up
+2026-09-20 08:02:36 INFO worker-service Worker heartbeat OK
+2026-09-20 08:02:39 INFO worker-service Worker heartbeat OK
+2026-09-20 08:02:42 INFO worker-service Job picked up
+2026-09-20 08:02:45 INFO notification-service Push notification sent
+2026-09-20 08:02:48 INFO notification-service Push notification sent
+2026-09-20 08:02:51 INFO worker-service Worker heartbeat OK
+2026-09-20 08:02:54 INFO notification-service Push notification sent
+2026-09-20 08:02:57 INFO notification-service Push notification sent
+2026-09-20 08:03:00 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:03:01 INFO worker-service Retry succeeded
+2026-09-20 08:03:03 INFO notification-service Push notification sent
+2026-09-20 08:03:06 INFO worker-service Job picked up
+2026-09-20 08:03:09 INFO notification-service SMS delivered
+2026-09-20 08:03:12 INFO worker-service Worker heartbeat OK
+2026-09-20 08:03:15 INFO notification-service Push notification sent
+2026-09-20 08:03:18 INFO worker-service Worker heartbeat OK
+2026-09-20 08:03:21 INFO notification-service Push notification sent
+2026-09-20 08:03:24 INFO notification-service Push notification sent
+2026-09-20 08:03:27 INFO worker-service Job picked up
+2026-09-20 08:03:30 INFO worker-service Job completed successfully
+2026-09-20 08:03:33 INFO notification-service SMS delivered
+2026-09-20 08:03:36 INFO worker-service Job completed successfully
+2026-09-20 08:03:39 INFO notification-service SMS delivered
+2026-09-20 08:03:42 INFO notification-service Email queued
+2026-09-20 08:03:45 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:03:46 INFO notification-service Retry succeeded
+2026-09-20 08:03:48 INFO notification-service Email queued
+2026-09-20 08:03:51 INFO worker-service Worker heartbeat OK
+2026-09-20 08:03:54 INFO worker-service Job completed successfully
+2026-09-20 08:03:57 INFO notification-service Push notification sent
+2026-09-20 08:04:00 INFO notification-service Push notification sent
+2026-09-20 08:04:03 INFO notification-service SMS delivered
+2026-09-20 08:04:06 INFO notification-service SMS delivered
+2026-09-20 08:04:09 INFO worker-service Job picked up
+2026-09-20 08:04:12 INFO notification-service Push notification sent
+2026-09-20 08:04:15 INFO worker-service Job completed successfully
+2026-09-20 08:04:18 INFO worker-service Job picked up
+2026-09-20 08:04:21 INFO worker-service Job completed successfully
+2026-09-20 08:04:24 INFO worker-service Job completed successfully
+2026-09-20 08:04:27 INFO notification-service SMS delivered
+2026-09-20 08:04:30 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:04:31 INFO notification-service Retry succeeded
+2026-09-20 08:04:33 INFO worker-service Job completed successfully
+2026-09-20 08:04:36 INFO worker-service Worker heartbeat OK
+2026-09-20 08:04:39 INFO notification-service Email queued
+2026-09-20 08:04:42 INFO notification-service SMS delivered
+2026-09-20 08:04:45 INFO notification-service Push notification sent
+2026-09-20 08:04:48 INFO notification-service SMS delivered
+2026-09-20 08:04:51 INFO worker-service Job picked up
+2026-09-20 08:04:54 INFO worker-service Job completed successfully
+2026-09-20 08:04:57 INFO notification-service Email queued
+2026-09-20 08:05:00 INFO notification-service SMS delivered
+2026-09-20 08:05:03 INFO worker-service Job completed successfully
+2026-09-20 08:05:06 INFO notification-service Push notification sent
+2026-09-20 08:05:09 INFO notification-service SMS delivered
+2026-09-20 08:05:12 INFO worker-service Worker heartbeat OK
+2026-09-20 08:05:15 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:05:16 INFO worker-service Retry succeeded
+2026-09-20 08:05:18 INFO worker-service Job picked up
+2026-09-20 08:05:21 INFO notification-service SMS delivered
+2026-09-20 08:05:24 INFO worker-service Worker heartbeat OK
+2026-09-20 08:05:27 INFO worker-service Job completed successfully
+2026-09-20 08:05:30 INFO worker-service Job picked up
+2026-09-20 08:05:33 INFO worker-service Job completed successfully
+2026-09-20 08:05:36 INFO notification-service Email queued
+2026-09-20 08:05:39 INFO notification-service Email queued
+2026-09-20 08:05:42 INFO worker-service Job completed successfully
+2026-09-20 08:05:45 INFO notification-service SMS delivered
+2026-09-20 08:05:48 INFO notification-service SMS delivered
+2026-09-20 08:05:51 INFO notification-service Email queued
+2026-09-20 08:05:54 INFO worker-service Job picked up
+2026-09-20 08:05:57 INFO worker-service Job completed successfully
+2026-09-20 08:06:00 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:06:01 INFO worker-service Retry succeeded
+2026-09-20 08:06:03 INFO notification-service Push notification sent
+2026-09-20 08:06:06 INFO notification-service Email queued
+2026-09-20 08:06:09 INFO notification-service Push notification sent
+2026-09-20 08:06:12 INFO worker-service Job picked up
+2026-09-20 08:06:15 INFO notification-service SMS delivered
+2026-09-20 08:06:18 INFO worker-service Worker heartbeat OK
+2026-09-20 08:06:21 INFO worker-service Job picked up
+2026-09-20 08:06:24 INFO notification-service Email queued
+2026-09-20 08:06:27 INFO worker-service Worker heartbeat OK
+2026-09-20 08:06:30 INFO notification-service Email queued
+2026-09-20 08:06:33 INFO worker-service Worker heartbeat OK
+2026-09-20 08:06:36 INFO worker-service Job picked up
+2026-09-20 08:06:39 INFO notification-service Email queued
+2026-09-20 08:06:42 INFO worker-service Job picked up
+2026-09-20 08:06:45 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:06:46 INFO worker-service Retry succeeded
+2026-09-20 08:06:48 INFO worker-service Job picked up
+2026-09-20 08:06:51 INFO worker-service Job picked up
+2026-09-20 08:06:54 INFO notification-service Push notification sent
+2026-09-20 08:06:57 INFO notification-service Email queued
+2026-09-20 08:07:00 INFO notification-service SMS delivered
+2026-09-20 08:07:03 INFO worker-service Job picked up
+2026-09-20 08:07:06 INFO notification-service Push notification sent
+2026-09-20 08:07:09 INFO notification-service SMS delivered
+2026-09-20 08:07:12 INFO notification-service Push notification sent
+2026-09-20 08:07:15 INFO notification-service Push notification sent
+2026-09-20 08:07:18 INFO notification-service SMS delivered
+2026-09-20 08:07:21 INFO notification-service SMS delivered
+2026-09-20 08:07:24 INFO worker-service Job picked up
+2026-09-20 08:07:27 INFO worker-service Job picked up
+2026-09-20 08:07:30 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:07:31 INFO notification-service Retry succeeded
+2026-09-20 08:07:33 INFO notification-service Email queued
+2026-09-20 08:07:36 INFO notification-service Push notification sent
+2026-09-20 08:07:39 INFO notification-service Push notification sent
+2026-09-20 08:07:42 INFO worker-service Worker heartbeat OK
+2026-09-20 08:07:45 INFO notification-service Email queued
+2026-09-20 08:07:48 INFO worker-service Job completed successfully
+2026-09-20 08:07:51 INFO notification-service SMS delivered
+2026-09-20 08:07:54 INFO worker-service Worker heartbeat OK
+2026-09-20 08:07:57 INFO worker-service Worker heartbeat OK
+2026-09-20 08:08:00 INFO worker-service Job picked up
+2026-09-20 08:08:03 INFO notification-service SMS delivered
+2026-09-20 08:08:06 INFO worker-service Job completed successfully
+2026-09-20 08:08:09 INFO notification-service Push notification sent
+2026-09-20 08:08:12 INFO worker-service Job picked up
+2026-09-20 08:08:15 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:08:16 INFO worker-service Retry succeeded
+2026-09-20 08:08:18 INFO worker-service Job completed successfully
+2026-09-20 08:08:21 INFO notification-service Push notification sent
+2026-09-20 08:08:24 INFO notification-service SMS delivered
+2026-09-20 08:08:27 INFO notification-service Push notification sent
+2026-09-20 08:08:30 INFO notification-service Push notification sent
+2026-09-20 08:08:33 INFO notification-service Email queued
+2026-09-20 08:08:36 INFO notification-service Email queued
+2026-09-20 08:08:39 INFO worker-service Job completed successfully
+2026-09-20 08:08:42 INFO notification-service Email queued
+2026-09-20 08:08:45 INFO worker-service Worker heartbeat OK
+2026-09-20 08:08:48 INFO worker-service Job picked up
+2026-09-20 08:08:51 INFO notification-service Email queued
+2026-09-20 08:08:54 INFO worker-service Job completed successfully
+2026-09-20 08:08:57 INFO notification-service SMS delivered
+2026-09-20 08:09:00 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:09:01 INFO worker-service Retry succeeded
+2026-09-20 08:09:03 INFO worker-service Job completed successfully
+2026-09-20 08:09:06 INFO notification-service Push notification sent
+2026-09-20 08:09:09 INFO notification-service Push notification sent
+2026-09-20 08:09:12 INFO notification-service Push notification sent
+2026-09-20 08:09:15 INFO worker-service Worker heartbeat OK
+2026-09-20 08:09:18 INFO worker-service Job picked up
+2026-09-20 08:09:21 INFO worker-service Job completed successfully
+2026-09-20 08:09:24 INFO notification-service SMS delivered
+2026-09-20 08:09:27 INFO notification-service SMS delivered
+2026-09-20 08:09:30 INFO worker-service Job completed successfully
+2026-09-20 08:09:33 INFO notification-service SMS delivered
+2026-09-20 08:09:36 INFO worker-service Job picked up
+2026-09-20 08:09:39 INFO worker-service Job picked up
+2026-09-20 08:09:42 INFO worker-service Worker heartbeat OK
+2026-09-20 08:09:45 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:09:46 INFO worker-service Retry succeeded
+2026-09-20 08:09:48 INFO worker-service Job picked up
+2026-09-20 08:09:51 INFO notification-service Push notification sent
+2026-09-20 08:09:54 INFO worker-service Job picked up
+2026-09-20 08:09:57 INFO worker-service Job completed successfully
+2026-09-20 08:10:00 INFO worker-service Worker heartbeat OK
+2026-09-20 08:10:03 INFO notification-service Push notification sent
+2026-09-20 08:10:06 INFO worker-service Job completed successfully
+2026-09-20 08:10:09 INFO worker-service Job completed successfully
+2026-09-20 08:10:12 INFO notification-service Push notification sent
+2026-09-20 08:10:15 INFO worker-service Job picked up
+2026-09-20 08:10:18 INFO notification-service SMS delivered
+2026-09-20 08:10:21 INFO notification-service SMS delivered
+2026-09-20 08:10:24 INFO notification-service SMS delivered
+2026-09-20 08:10:27 INFO notification-service SMS delivered
+2026-09-20 08:10:30 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:10:31 INFO worker-service Retry succeeded
+2026-09-20 08:10:33 INFO worker-service Job picked up
+2026-09-20 08:10:36 INFO notification-service Push notification sent
+2026-09-20 08:10:39 INFO worker-service Worker heartbeat OK
+2026-09-20 08:10:42 INFO notification-service SMS delivered
+2026-09-20 08:10:45 INFO notification-service Email queued
+2026-09-20 08:10:48 INFO notification-service Email queued
+2026-09-20 08:10:51 INFO notification-service Push notification sent
+2026-09-20 08:10:54 INFO worker-service Job picked up
+2026-09-20 08:10:57 INFO notification-service Email queued
+2026-09-20 08:11:00 INFO worker-service Job completed successfully
+2026-09-20 08:11:03 INFO worker-service Worker heartbeat OK
+2026-09-20 08:11:06 INFO worker-service Job picked up
+2026-09-20 08:11:09 INFO notification-service Email queued
+2026-09-20 08:11:12 INFO notification-service Push notification sent
+2026-09-20 08:11:15 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:11:16 INFO worker-service Retry succeeded
+2026-09-20 08:11:18 INFO notification-service Push notification sent
+2026-09-20 08:11:21 INFO worker-service Worker heartbeat OK
+2026-09-20 08:11:24 INFO notification-service SMS delivered
+2026-09-20 08:11:27 INFO notification-service Email queued
+2026-09-20 08:11:30 INFO notification-service SMS delivered
+2026-09-20 08:11:33 INFO notification-service Email queued
+2026-09-20 08:11:36 INFO worker-service Job completed successfully
+2026-09-20 08:11:39 INFO worker-service Job picked up
+2026-09-20 08:11:42 INFO notification-service Email queued
+2026-09-20 08:11:45 INFO worker-service Worker heartbeat OK
+2026-09-20 08:11:48 INFO notification-service Email queued
+2026-09-20 08:11:51 INFO worker-service Job picked up
+2026-09-20 08:11:54 INFO worker-service Job picked up
+2026-09-20 08:11:57 INFO notification-service Push notification sent
+2026-09-20 08:12:00 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:12:01 INFO worker-service Retry succeeded
+2026-09-20 08:12:03 INFO worker-service Worker heartbeat OK
+2026-09-20 08:12:06 INFO worker-service Job picked up
+2026-09-20 08:12:09 INFO worker-service Job completed successfully
+2026-09-20 08:12:12 INFO notification-service Push notification sent
+2026-09-20 08:12:15 INFO notification-service Push notification sent
+2026-09-20 08:12:18 INFO notification-service Email queued
+2026-09-20 08:12:21 INFO worker-service Worker heartbeat OK
+2026-09-20 08:12:24 INFO notification-service Push notification sent
+2026-09-20 08:12:27 INFO worker-service Worker heartbeat OK
+2026-09-20 08:12:30 INFO notification-service Email queued
+2026-09-20 08:12:33 INFO notification-service Email queued
+2026-09-20 08:12:36 INFO notification-service Push notification sent
+2026-09-20 08:12:39 INFO worker-service Worker heartbeat OK
+2026-09-20 08:12:42 INFO notification-service Push notification sent
+2026-09-20 08:12:45 WARNING notification-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:12:46 INFO notification-service Retry succeeded
+2026-09-20 08:12:48 INFO notification-service SMS delivered
+2026-09-20 08:12:51 INFO notification-service Email queued
+2026-09-20 08:12:54 INFO worker-service Job completed successfully
+2026-09-20 08:12:57 INFO notification-service Email queued
+2026-09-20 08:13:00 INFO notification-service Push notification sent
+2026-09-20 08:13:03 INFO notification-service SMS delivered
+2026-09-20 08:13:06 INFO worker-service Job picked up
+2026-09-20 08:13:09 INFO notification-service SMS delivered
+2026-09-20 08:13:12 INFO worker-service Worker heartbeat OK
+2026-09-20 08:13:15 INFO notification-service Email queued
+2026-09-20 08:13:18 INFO worker-service Worker heartbeat OK
+2026-09-20 08:13:21 INFO notification-service SMS delivered
+2026-09-20 08:13:24 INFO worker-service Job completed successfully
+2026-09-20 08:13:27 INFO notification-service Push notification sent
+2026-09-20 08:13:30 WARNING worker-service Transient send failure, retrying (attempt 1/3)
+2026-09-20 08:13:31 INFO worker-service Retry succeeded
+2026-09-20 08:13:33 INFO notification-service Email queued
+2026-09-20 08:13:36 INFO worker-service Job completed successfully
+2026-09-20 08:13:39 INFO notification-service Email queued
+2026-09-20 08:13:42 INFO notification-service Push notification sent
+2026-09-20 08:13:45 INFO worker-service Worker heartbeat OK
+2026-09-20 08:13:48 INFO notification-service SMS delivered
+2026-09-20 08:13:51 INFO notification-service Push notification sent
+2026-09-20 08:13:54 INFO worker-service Worker heartbeat OK
+2026-09-20 08:13:57 INFO notification-service Email queued
+2026-09-20 08:14:00 INFO worker-service Worker heartbeat OK

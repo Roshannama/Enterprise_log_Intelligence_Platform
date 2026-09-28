@@ -1,0 +1,16 @@
+2026-09-20 08:00:00 WARNING database-service Disk usage at 70% on volume /data
+2026-09-20 08:00:03 WARNING database-service Disk usage at 71% on volume /data
+2026-09-20 08:00:06 WARNING database-service Disk usage at 72% on volume /data
+2026-09-20 08:00:09 WARNING database-service Disk usage at 73% on volume /data
+2026-09-20 08:00:12 WARNING database-service Disk usage at 74% on volume /data
+2026-09-20 08:00:15 WARNING database-service Disk usage at 75% on volume /data
+2026-09-20 08:00:18 WARNING database-service Disk usage at 76% on volume /data
+2026-09-20 08:00:21 WARNING database-service Disk usage at 77% on volume /data
+2026-09-20 08:00:24 WARNING database-service Disk usage at 78% on volume /data
+2026-09-20 08:00:27 WARNING database-service Disk usage at 79% on volume /data
+2026-09-20 08:00:30 WARNING database-service Disk usage at 80% on volume /data
+2026-09-20 08:00:33 WARNING database-service Disk usage at 81% on volume /data
+2026-09-20 08:00:36 WARNING database-service Disk usage at 82% on volume /data
+2026-09-20 08:00:39 WARNING database-service Disk usage at 83% on volume /data
+2026-09-20 08:00:42 WARNING database-service Disk usage at 84% on volume /data
+2026-09-20 08:00:50 CRITICAL database-service Disk usage at 96%, write operations at risk

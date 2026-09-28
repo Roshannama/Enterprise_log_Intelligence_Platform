@@ -1,0 +1,11 @@
+2026-09-20 08:00:00 INFO payment-service Payment captured
+2026-09-20 08:00:02 INFO worker-service Job completed successfully
+2026-09-20 08:00:04 INFO database-service Connection acquired from pool
+2026-09-20 08:00:06 INFO payment-service Payment captured
+2026-09-20 08:00:08 INFO notification-service Push notification sent
+2026-09-20 08:00:11 WARNING api-gateway Single request latency 2100ms
+2026-09-20 08:00:10 INFO user-service Profile cache warmed
+2026-09-20 08:00:12 INFO search-service Search query executed
+2026-09-20 08:00:14 INFO inventory-service Inventory reserved
+2026-09-20 08:00:16 INFO monitoring-service Metrics scraped
+2026-09-20 08:00:18 INFO payment-service Refund processed successfully

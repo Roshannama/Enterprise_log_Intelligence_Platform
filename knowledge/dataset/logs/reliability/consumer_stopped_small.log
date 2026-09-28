@@ -1,0 +1,13 @@
+2026-09-20 08:00:00 INFO worker-service Message consumed and processed
+2026-09-20 08:00:02 INFO worker-service Message consumed and processed
+2026-09-20 08:00:04 INFO worker-service Message consumed and processed
+2026-09-20 08:00:06 INFO worker-service Message consumed and processed
+2026-09-20 08:00:08 INFO worker-service Message consumed and processed
+2026-09-20 08:00:10 INFO worker-service Message consumed and processed
+2026-09-20 08:00:12 INFO worker-service Message consumed and processed
+2026-09-20 08:00:14 INFO worker-service Message consumed and processed
+2026-09-20 08:00:16 INFO worker-service Message consumed and processed
+2026-09-20 08:00:18 INFO worker-service Message consumed and processed
+2026-09-20 08:00:25 FATAL worker-service Consumer group coordinator lost, consumer stopped
+2026-09-20 08:00:27 CRITICAL monitoring-service No messages consumed from queue=notifications in 300s
+2026-09-20 08:01:00 INFO worker-service Consumer restarted and rejoined group
